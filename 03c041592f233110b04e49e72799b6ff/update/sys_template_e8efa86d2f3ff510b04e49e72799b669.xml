@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_template">
+    <sys_template action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <global>false</global>
+        <group/>
+        <groups/>
+        <link_element/>
+        <name>TEMPLATE3</name>
+        <next/>
+        <next_child/>
+        <roles/>
+        <short_description/>
+        <show_on_template_bar>true</show_on_template_bar>
+        <stand_alone>false</stand_alone>
+        <sys_class_name>sys_template</sys_class_name>
+        <sys_created_by>Gavin</sys_created_by>
+        <sys_created_on>2024-01-17 13:33:07</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>e8efa86d2f3ff510b04e49e72799b669</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>TEMPLATE3</sys_name>
+        <sys_package display_value="Demographic Services v2" source="x_1202935_dsates_0">03c041592f233110b04e49e72799b6ff</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Demographic Services v2">03c041592f233110b04e49e72799b6ff</sys_scope>
+        <sys_update_name>sys_template_e8efa86d2f3ff510b04e49e72799b669</sys_update_name>
+        <sys_updated_by>Gavin</sys_updated_by>
+        <sys_updated_on>2024-01-17 13:33:07</sys_updated_on>
+        <table>sn_customerservice_case</table>
+        <template>business_service=6e035d812fa73510b04e49e72799b638^EQ</template>
+        <user display_value="gavin robbins">1ff37eac2f67b110b04e49e72799b613</user>
+        <view/>
+    </sys_template>
+</record_update>

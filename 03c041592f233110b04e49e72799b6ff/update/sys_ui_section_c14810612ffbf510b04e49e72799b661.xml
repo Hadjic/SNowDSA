@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="Related Records" section_id="c14810612ffbf510b04e49e72799b661" sys_domain="global" table="u_demographic_case_v1" version="3" view="workspace-gav-test-0">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.begin_split</element>
+            <position>0</position>
+            <sys_created_by>Gavin</sys_created_by>
+            <sys_created_on>2024-01-17 11:48:53</sys_created_on>
+            <sys_id>c94810612ffbf510b04e49e72799b66f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Related Records" display_value="Related Records" name="u_demographic_case_v1" sys_domain="global" view="b4381c216cfbf510f048e77e46b0d6c1">c14810612ffbf510b04e49e72799b661</sys_ui_section>
+            <sys_updated_by>Gavin</sys_updated_by>
+            <sys_updated_on>2024-01-17 11:48:53</sys_updated_on>
+            <sys_user/>
+            <type>.begin_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>problem</element>
+            <position>1</position>
+            <sys_created_by>Gavin</sys_created_by>
+            <sys_created_on>2024-01-17 11:48:53</sys_created_on>
+            <sys_id>cd4810612ffbf510b04e49e72799b66f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Related Records" display_value="Related Records" name="u_demographic_case_v1" sys_domain="global" view="b4381c216cfbf510f048e77e46b0d6c1">c14810612ffbf510b04e49e72799b661</sys_ui_section>
+            <sys_updated_by>Gavin</sys_updated_by>
+            <sys_updated_on>2024-01-17 11:48:53</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>post_case_review</element>
+            <position>2</position>
+            <sys_created_by>Gavin</sys_created_by>
+            <sys_created_on>2024-01-17 11:48:53</sys_created_on>
+            <sys_id>c14810612ffbf510b04e49e72799b670</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Related Records" display_value="Related Records" name="u_demographic_case_v1" sys_domain="global" view="b4381c216cfbf510f048e77e46b0d6c1">c14810612ffbf510b04e49e72799b661</sys_ui_section>
+            <sys_updated_by>Gavin</sys_updated_by>
+            <sys_updated_on>2024-01-17 11:48:53</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>3</position>
+            <sys_created_by>Gavin</sys_created_by>
+            <sys_created_on>2024-01-17 11:48:53</sys_created_on>
+            <sys_id>c54810612ffbf510b04e49e72799b670</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Related Records" display_value="Related Records" name="u_demographic_case_v1" sys_domain="global" view="b4381c216cfbf510f048e77e46b0d6c1">c14810612ffbf510b04e49e72799b661</sys_ui_section>
+            <sys_updated_by>Gavin</sys_updated_by>
+            <sys_updated_on>2024-01-17 11:48:53</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>change</element>
+            <position>4</position>
+            <sys_created_by>Gavin</sys_created_by>
+            <sys_created_on>2024-01-17 11:48:53</sys_created_on>
+            <sys_id>c94810612ffbf510b04e49e72799b670</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Related Records" display_value="Related Records" name="u_demographic_case_v1" sys_domain="global" view="b4381c216cfbf510f048e77e46b0d6c1">c14810612ffbf510b04e49e72799b661</sys_ui_section>
+            <sys_updated_by>Gavin</sys_updated_by>
+            <sys_updated_on>2024-01-17 11:48:53</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>caused_by</element>
+            <position>5</position>
+            <sys_created_by>Gavin</sys_created_by>
+            <sys_created_on>2024-01-17 11:48:53</sys_created_on>
+            <sys_id>cd4810612ffbf510b04e49e72799b670</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Related Records" display_value="Related Records" name="u_demographic_case_v1" sys_domain="global" view="b4381c216cfbf510f048e77e46b0d6c1">c14810612ffbf510b04e49e72799b661</sys_ui_section>
+            <sys_updated_by>Gavin</sys_updated_by>
+            <sys_updated_on>2024-01-17 11:48:53</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>case_action_summary</element>
+            <position>6</position>
+            <sys_created_by>Gavin</sys_created_by>
+            <sys_created_on>2024-01-17 11:48:53</sys_created_on>
+            <sys_id>c14810612ffbf510b04e49e72799b66f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Related Records" display_value="Related Records" name="u_demographic_case_v1" sys_domain="global" view="b4381c216cfbf510f048e77e46b0d6c1">c14810612ffbf510b04e49e72799b661</sys_ui_section>
+            <sys_updated_by>Gavin</sys_updated_by>
+            <sys_updated_on>2024-01-17 11:48:53</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.end_split</element>
+            <position>7</position>
+            <sys_created_by>Gavin</sys_created_by>
+            <sys_created_on>2024-01-17 11:48:53</sys_created_on>
+            <sys_id>c54810612ffbf510b04e49e72799b66f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Related Records" display_value="Related Records" name="u_demographic_case_v1" sys_domain="global" view="b4381c216cfbf510f048e77e46b0d6c1">c14810612ffbf510b04e49e72799b661</sys_ui_section>
+            <sys_updated_by>Gavin</sys_updated_by>
+            <sys_updated_on>2024-01-17 11:48:53</sys_updated_on>
+            <sys_user/>
+            <type>.end_split</type>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption>Related Records</caption>
+            <header>false</header>
+            <name>u_demographic_case_v1</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>Gavin</sys_created_by>
+            <sys_created_on>2024-01-17 11:48:53</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>c14810612ffbf510b04e49e72799b661</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>u_demographic_case_v1</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Demographic Services v2" source="x_1202935_dsates_0">03c041592f233110b04e49e72799b6ff</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Demographic Services v2">03c041592f233110b04e49e72799b6ff</sys_scope>
+            <sys_update_name>sys_ui_section_c14810612ffbf510b04e49e72799b661</sys_update_name>
+            <sys_updated_by>Gavin</sys_updated_by>
+            <sys_updated_on>2024-01-17 11:48:53</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Workspace Gav test 0" name="workspace-gav-test-0">b4381c216cfbf510f048e77e46b0d6c1</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

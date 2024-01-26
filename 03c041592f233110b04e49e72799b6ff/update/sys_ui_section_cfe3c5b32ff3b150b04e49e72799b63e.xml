@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="New section 1" section_id="cfe3c5b32ff3b150b04e49e72799b63e" sys_domain="global" table="x_1202935_demogr_0_new_cases" version="3" view="workspace-gav-test-0">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>1</position>
+            <sys_created_by>emeka</sys_created_by>
+            <sys_created_on>2024-01-24 14:46:29</sys_created_on>
+            <sys_id>be0449b32ff3b150b04e49e72799b6c7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="New section 1" display_value="New section 1" name="x_1202935_demogr_0_new_cases" sys_domain="global" view="b4381c216cfbf510f048e77e46b0d6c1">cfe3c5b32ff3b150b04e49e72799b63e</sys_ui_section>
+            <sys_updated_by>emeka</sys_updated_by>
+            <sys_updated_on>2024-01-24 14:46:29</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>activity.xml</element>
+            <position>3</position>
+            <sys_created_by>emeka</sys_created_by>
+            <sys_created_on>2024-01-24 14:46:29</sys_created_on>
+            <sys_id>f20449b32ff3b150b04e49e72799b6c8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter display_value="Activities (filtered)">444ea5c6bf310100e628555b3f0739d6</sys_ui_formatter>
+            <sys_ui_section caption="New section 1" display_value="New section 1" name="x_1202935_demogr_0_new_cases" sys_domain="global" view="b4381c216cfbf510f048e77e46b0d6c1">cfe3c5b32ff3b150b04e49e72799b63e</sys_ui_section>
+            <sys_updated_by>emeka</sys_updated_by>
+            <sys_updated_on>2024-01-24 14:46:29</sys_updated_on>
+            <sys_user/>
+            <type>formatter</type>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption>New section 1</caption>
+            <header>false</header>
+            <name>x_1202935_demogr_0_new_cases</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>emeka</sys_created_by>
+            <sys_created_on>2024-01-24 14:45:58</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>cfe3c5b32ff3b150b04e49e72799b63e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_1202935_demogr_0_new_cases</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Demographic Services v2" source="x_1202935_dsates_0">03c041592f233110b04e49e72799b6ff</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Demographic Services v2">03c041592f233110b04e49e72799b6ff</sys_scope>
+            <sys_update_name>sys_ui_section_cfe3c5b32ff3b150b04e49e72799b63e</sys_update_name>
+            <sys_updated_by>emeka</sys_updated_by>
+            <sys_updated_on>2024-01-24 14:45:58</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Workspace Gav test 0" name="workspace-gav-test-0">b4381c216cfbf510f048e77e46b0d6c1</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_list parent="" relationship="" sys_domain="global" table="sn_customerservice_case" version="2" view="workspace-gav-test-0">
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>case</element>
+            <list_id display_value="sn_customerservice_case" element="NULL" name="sn_customerservice_case" parent="NULL" relationship="NULL" sys_domain="global" view="b4381c216cfbf510f048e77e46b0d6c1">d048dc212ffbf510b04e49e72799b640</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>0</position>
+            <sum>false</sum>
+            <sys_created_by>Gavin</sys_created_by>
+            <sys_created_on>2024-01-17 11:48:50</sys_created_on>
+            <sys_id>d848dc212ffbf510b04e49e72799b641</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>Gavin</sys_updated_by>
+            <sys_updated_on>2024-01-17 11:48:50</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>contact</element>
+            <list_id display_value="sn_customerservice_case" element="NULL" name="sn_customerservice_case" parent="NULL" relationship="NULL" sys_domain="global" view="b4381c216cfbf510f048e77e46b0d6c1">d048dc212ffbf510b04e49e72799b640</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>1</position>
+            <sum>false</sum>
+            <sys_created_by>Gavin</sys_created_by>
+            <sys_created_on>2024-01-17 11:48:50</sys_created_on>
+            <sys_id>d048dc212ffbf510b04e49e72799b642</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>Gavin</sys_updated_by>
+            <sys_updated_on>2024-01-17 11:48:50</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>company</element>
+            <list_id display_value="sn_customerservice_case" element="NULL" name="sn_customerservice_case" parent="NULL" relationship="NULL" sys_domain="global" view="b4381c216cfbf510f048e77e46b0d6c1">d048dc212ffbf510b04e49e72799b640</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>2</position>
+            <sum>false</sum>
+            <sys_created_by>Gavin</sys_created_by>
+            <sys_created_on>2024-01-17 11:48:50</sys_created_on>
+            <sys_id>d448dc212ffbf510b04e49e72799b642</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>Gavin</sys_updated_by>
+            <sys_updated_on>2024-01-17 11:48:50</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>contact_type</element>
+            <list_id display_value="sn_customerservice_case" element="NULL" name="sn_customerservice_case" parent="NULL" relationship="NULL" sys_domain="global" view="b4381c216cfbf510f048e77e46b0d6c1">d048dc212ffbf510b04e49e72799b640</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>3</position>
+            <sum>false</sum>
+            <sys_created_by>Gavin</sys_created_by>
+            <sys_created_on>2024-01-17 11:48:50</sys_created_on>
+            <sys_id>d848dc212ffbf510b04e49e72799b642</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>Gavin</sys_updated_by>
+            <sys_updated_on>2024-01-17 11:48:50</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>state</element>
+            <list_id display_value="sn_customerservice_case" element="NULL" name="sn_customerservice_case" parent="NULL" relationship="NULL" sys_domain="global" view="b4381c216cfbf510f048e77e46b0d6c1">d048dc212ffbf510b04e49e72799b640</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>4</position>
+            <sum>false</sum>
+            <sys_created_by>Gavin</sys_created_by>
+            <sys_created_on>2024-01-17 11:48:50</sys_created_on>
+            <sys_id>dc48dc212ffbf510b04e49e72799b642</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>Gavin</sys_updated_by>
+            <sys_updated_on>2024-01-17 11:48:50</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>priority</element>
+            <list_id display_value="sn_customerservice_case" element="NULL" name="sn_customerservice_case" parent="NULL" relationship="NULL" sys_domain="global" view="b4381c216cfbf510f048e77e46b0d6c1">d048dc212ffbf510b04e49e72799b640</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>5</position>
+            <sum>false</sum>
+            <sys_created_by>Gavin</sys_created_by>
+            <sys_created_on>2024-01-17 11:48:50</sys_created_on>
+            <sys_id>d048dc212ffbf510b04e49e72799b643</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>Gavin</sys_updated_by>
+            <sys_updated_on>2024-01-17 11:48:50</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>assigned_to</element>
+            <list_id display_value="sn_customerservice_case" element="NULL" name="sn_customerservice_case" parent="NULL" relationship="NULL" sys_domain="global" view="b4381c216cfbf510f048e77e46b0d6c1">d048dc212ffbf510b04e49e72799b640</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>6</position>
+            <sum>false</sum>
+            <sys_created_by>Gavin</sys_created_by>
+            <sys_created_on>2024-01-17 11:48:50</sys_created_on>
+            <sys_id>d448dc212ffbf510b04e49e72799b643</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>Gavin</sys_updated_by>
+            <sys_updated_on>2024-01-17 11:48:50</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>sys_updated_on</element>
+            <list_id display_value="sn_customerservice_case" element="NULL" name="sn_customerservice_case" parent="NULL" relationship="NULL" sys_domain="global" view="b4381c216cfbf510f048e77e46b0d6c1">d048dc212ffbf510b04e49e72799b640</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>7</position>
+            <sum>false</sum>
+            <sys_created_by>Gavin</sys_created_by>
+            <sys_created_on>2024-01-17 11:48:50</sys_created_on>
+            <sys_id>9048dc212ffbf510b04e49e72799b650</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>Gavin</sys_updated_by>
+            <sys_updated_on>2024-01-17 11:48:50</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element/>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <name>sn_customerservice_case</name>
+            <parent/>
+            <position/>
+            <relationship/>
+            <sum>false</sum>
+            <sys_class_name>sys_ui_list</sys_class_name>
+            <sys_created_by>Gavin</sys_created_by>
+            <sys_created_on>2024-01-17 11:48:50</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>d048dc212ffbf510b04e49e72799b640</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>sn_customerservice_case</sys_name>
+            <sys_package display_value="Demographic Services v2" source="x_1202935_dsates_0">03c041592f233110b04e49e72799b6ff</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Demographic Services v2">03c041592f233110b04e49e72799b6ff</sys_scope>
+            <sys_update_name>sys_ui_list_sn_customerservice_case_workspace-gav-test-0</sys_update_name>
+            <sys_updated_by>Gavin</sys_updated_by>
+            <sys_updated_on>2024-01-17 11:48:50</sys_updated_on>
+            <sys_user/>
+            <view display_value="Workspace Gav test 0" name="workspace-gav-test-0">b4381c216cfbf510f048e77e46b0d6c1</view>
+            <view_name/>
+        </sys_ui_list>
+    </sys_ui_list>
+</record_update>

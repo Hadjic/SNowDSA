@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module">
+    <sys_app_module action="DELETE">
+        <active>true</active>
+        <application display_value="System Import Sets">import_sets</application>
+        <assessment/>
+        <device_type/>
+        <filter/>
+        <hint/>
+        <homepage/>
+        <image/>
+        <link_type>LIST</link_type>
+        <map_page/>
+        <mobile_title>Dsates 0 1706183429053</mobile_title>
+        <mobile_view_name>Mobile</mobile_view_name>
+        <name>x_1202935_dsates_0_1706183429053</name>
+        <order>1100</order>
+        <override_menu_roles>false</override_menu_roles>
+        <query/>
+        <report/>
+        <roles/>
+        <sys_class_name>sys_app_module</sys_class_name>
+        <sys_created_by>emeka</sys_created_by>
+        <sys_created_on>2024-01-25 11:50:32</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>0f55a9842fc4c250b04e49e72799b62f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Dsates 0 1706183429053</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Demographic Services v2" source="x_1202935_dsates_0">03c041592f233110b04e49e72799b6ff</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Demographic Services v2">03c041592f233110b04e49e72799b6ff</sys_scope>
+        <sys_update_name>sys_app_module_0f55a9842fc4c250b04e49e72799b62f</sys_update_name>
+        <sys_updated_by>emeka</sys_updated_by>
+        <sys_updated_on>2024-01-25 11:50:32</sys_updated_on>
+        <timeline_page/>
+        <title>Dsates 0 1706183429053</title>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+        <window_name/>
+    </sys_app_module>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Demographic Services v2">03c041592f233110b04e49e72799b6ff</application>
+        <file_path/>
+        <instance_id>e4d1b260dbf0f3802f68c597059619a6</instance_id>
+        <instance_name>dev80171</instance_name>
+        <name>sys_app_module_0f55a9842fc4c250b04e49e72799b62f</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module"><sys_app_module action="INSERT_OR_UPDATE"><active>true</active><application display_value="System Import Sets">import_sets</application><assessment/><device_type/><filter/><hint/><homepage/><image/><link_type>LIST</link_type><map_page/><mobile_title>Dsates 0 1706183429053</mobile_title><mobile_view_name>Mobile</mobile_view_name><name>x_1202935_dsates_0_1706183429053</name><order>1100</order><override_menu_roles>false</override_menu_roles><query/><report/><roles/><sys_class_name>sys_app_module</sys_class_name><sys_created_by>emeka</sys_created_by><sys_created_on>2024-01-25 11:50:32</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>0f55a9842fc4c250b04e49e72799b62f</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Dsates 0 1706183429053</sys_name><sys_overrides/><sys_package display_value="Demographic Services v2" source="x_1202935_dsates_0">03c041592f233110b04e49e72799b6ff</sys_package><sys_policy/><sys_scope display_value="Demographic Services v2">03c041592f233110b04e49e72799b6ff</sys_scope><sys_update_name>sys_app_module_0f55a9842fc4c250b04e49e72799b62f</sys_update_name><sys_updated_by>emeka</sys_updated_by><sys_updated_on>2024-01-25 11:50:32</sys_updated_on><timeline_page/><title>Dsates 0 1706183429053</title><uncancelable>false</uncancelable><view_name/><window_name/></sys_app_module></record_update>]]></payload>
+        <payload_hash>-183460870</payload_hash>
+        <record_name>Dsates 0 1706183429053</record_name>
+        <reverted_from/>
+        <source>0bc081592f233110b04e49e72799b603</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>emeka</sys_created_by>
+        <sys_created_on>2024-01-25 11:50:32</sys_created_on>
+        <sys_id>0755a9842fc4c250b04e49e72799b658</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18d407518000000001</sys_recorded_at>
+        <sys_updated_by>emeka</sys_updated_by>
+        <sys_updated_on>2024-01-25 11:50:32</sys_updated_on>
+        <type>Module</type>
+        <update_guid>0b55a984d7c4c250c0fc18e744aa9e57</update_guid>
+        <update_guid_history>0b55a984d7c4c250c0fc18e744aa9e57:-183460870</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Dsates 0 1706183429053">2c17a9082fc4c250b04e49e72799b682</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>emeka</sys_created_by>
+        <sys_created_on>2024-01-25 11:58:00</sys_created_on>
+        <sys_db_object display_value="" name="sys_app_module">sys_app_module</sys_db_object>
+        <sys_id>0009f9688e5641e0933ae5a543b108c4</sys_id>
+        <sys_metadata>0f55a9842fc4c250b04e49e72799b62f</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Dsates 0 1706183429053</sys_name>
+        <sys_package display_value="Demographic Services v2" source="x_1202935_dsates_0">03c041592f233110b04e49e72799b6ff</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Demographic Services v2">03c041592f233110b04e49e72799b6ff</sys_scope>
+        <sys_scope_delete display_value="">9c53f5fa9cec4e44b642f42f279f2810</sys_scope_delete>
+        <sys_update_name>sys_app_module_0f55a9842fc4c250b04e49e72799b62f</sys_update_name>
+        <sys_update_version display_value="sys_app_module_0f55a9842fc4c250b04e49e72799b62f">0755a9842fc4c250b04e49e72799b658</sys_update_version>
+        <sys_updated_by>emeka</sys_updated_by>
+        <sys_updated_on>2024-01-25 11:58:00</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

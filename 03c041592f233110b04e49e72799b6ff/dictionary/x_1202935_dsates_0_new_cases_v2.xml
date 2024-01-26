@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="05c561c42fc4c250b04e49e72799b6f1" label="New cases v2" max_length="40" name="x_1202935_dsates_0_new_cases_v2" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="Case number" max_length="40" name="case_number" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Case type" max_length="40" name="case_type" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Date created" max_length="40" name="date_created" type="glide_date_time"/>
+        <element attributes="edge_encryption_enabled=true" label="Referred to" max_length="40" name="referred_to" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Remaining SLA" max_length="40" name="remaining_sla" type="glide_date_time"/>
+        <element default="javascript:current.getTableName();" label="Class" max_length="80" name="sys_class_name" type="sys_class_name"/>
+        <element attributes="edge_encryption_enabled=true" label="Work notes" max_length="40" name="work_notes" type="string"/>
+        <index name="index">
+            <element name="sys_class_name"/>
+        </index>
+    </element>
+</database>

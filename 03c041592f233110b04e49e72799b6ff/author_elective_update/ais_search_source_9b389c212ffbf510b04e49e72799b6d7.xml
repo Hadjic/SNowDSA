@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="ais_search_source">
+    <ais_search_source action="DELETE">
+        <active>true</active>
+        <condition/>
+        <datasource display_value="">x_1202935_test_a_0_chtable1</datasource>
+        <name>CHTable1</name>
+        <sys_class_name>ais_search_source</sys_class_name>
+        <sys_created_by>Gavin</sys_created_by>
+        <sys_created_on>2024-01-17 11:48:46</sys_created_on>
+        <sys_id>9b389c212ffbf510b04e49e72799b6d7</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>CHTable1</sys_name>
+        <sys_package display_value="DSATestApp" source="x_1202935_dsates_0">03c041592f233110b04e49e72799b6ff</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="DSATestApp">03c041592f233110b04e49e72799b6ff</sys_scope>
+        <sys_update_name>ais_search_source_9b389c212ffbf510b04e49e72799b6d7</sys_update_name>
+        <sys_updated_by>Gavin</sys_updated_by>
+        <sys_updated_on>2024-01-17 11:48:46</sys_updated_on>
+    </ais_search_source>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Demographic Services v2">03c041592f233110b04e49e72799b6ff</application>
+        <file_path/>
+        <instance_id>e4d1b260dbf0f3802f68c597059619a6</instance_id>
+        <instance_name>dev80171</instance_name>
+        <name>ais_search_source_9b389c212ffbf510b04e49e72799b6d7</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="ais_search_source"><ais_search_source action="INSERT_OR_UPDATE"><active>true</active><condition/><datasource display_value="">x_1202935_test_a_0_chtable1</datasource><name>CHTable1</name><sys_class_name>ais_search_source</sys_class_name><sys_created_by>Gavin</sys_created_by><sys_created_on>2024-01-17 11:48:46</sys_created_on><sys_id>9b389c212ffbf510b04e49e72799b6d7</sys_id><sys_mod_count>0</sys_mod_count><sys_name>CHTable1</sys_name><sys_package display_value="DSATestApp" source="x_1202935_dsates_0">03c041592f233110b04e49e72799b6ff</sys_package><sys_policy/><sys_scope display_value="DSATestApp">03c041592f233110b04e49e72799b6ff</sys_scope><sys_update_name>ais_search_source_9b389c212ffbf510b04e49e72799b6d7</sys_update_name><sys_updated_by>Gavin</sys_updated_by><sys_updated_on>2024-01-17 11:48:46</sys_updated_on></ais_search_source></record_update>]]></payload>
+        <payload_hash>1602716494</payload_hash>
+        <record_name>CHTable1</record_name>
+        <reverted_from/>
+        <source>0bc081592f233110b04e49e72799b603</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>Gavin</sys_created_by>
+        <sys_created_on>2024-01-17 11:48:46</sys_created_on>
+        <sys_id>9f389c212ffbf510b04e49e72799b6d9</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18d17409cf40000001</sys_recorded_at>
+        <sys_updated_by>Gavin</sys_updated_by>
+        <sys_updated_on>2024-01-17 11:48:46</sys_updated_on>
+        <type>AI Search Search Source</type>
+        <update_guid>d3389c21c5fbf5101e6fc3c36a1b3cd9</update_guid>
+        <update_guid_history>d3389c21c5fbf5101e6fc3c36a1b3cd9:1602716494</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="CHTable1">32a038082fc0c250b04e49e72799b61d</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-01-25 08:00:19</sys_created_on>
+        <sys_db_object display_value="" name="ais_search_source">ais_search_source</sys_db_object>
+        <sys_id>064eba5ef935496687c4bfa4278e7ce9</sys_id>
+        <sys_metadata>9b389c212ffbf510b04e49e72799b6d7</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>CHTable1</sys_name>
+        <sys_package display_value="Demographic Services v2" source="x_1202935_dsates_0">03c041592f233110b04e49e72799b6ff</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Demographic Services v2">03c041592f233110b04e49e72799b6ff</sys_scope>
+        <sys_scope_delete display_value="">9c53f5fa9cec4e44b642f42f279f2810</sys_scope_delete>
+        <sys_update_name>ais_search_source_9b389c212ffbf510b04e49e72799b6d7</sys_update_name>
+        <sys_update_version display_value="ais_search_source_9b389c212ffbf510b04e49e72799b6d7">9f389c212ffbf510b04e49e72799b6d9</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-01-25 08:00:19</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

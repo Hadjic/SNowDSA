@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_applicability_m2m_list">
+    <sys_ux_applicability_m2m_list action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <applicability display_value="Audience for app gav-test">1e385c212ffbf510b04e49e72799b6d9</applicability>
+        <list display_value="All">aa389c212ffbf510b04e49e72799b624</list>
+        <order>100</order>
+        <sys_class_name>sys_ux_applicability_m2m_list</sys_class_name>
+        <sys_created_by>Gavin</sys_created_by>
+        <sys_created_on>2024-01-17 11:48:43</sys_created_on>
+        <sys_id>66389c212ffbf510b04e49e72799b62a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Demographic Services v2" source="x_1202935_dsates_0">03c041592f233110b04e49e72799b6ff</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Demographic Services v2">03c041592f233110b04e49e72799b6ff</sys_scope>
+        <sys_update_name>sys_ux_applicability_m2m_list_66389c212ffbf510b04e49e72799b62a</sys_update_name>
+        <sys_updated_by>Gavin</sys_updated_by>
+        <sys_updated_on>2024-01-17 11:48:43</sys_updated_on>
+    </sys_ux_applicability_m2m_list>
+</record_update>
