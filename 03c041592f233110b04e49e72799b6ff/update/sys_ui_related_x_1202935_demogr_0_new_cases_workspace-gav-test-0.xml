@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_related sys_domain="global" table="x_1202935_demogr_0_new_cases" version="2" view="workspace-gav-test-0">
+        <sys_ui_related_list_entry action="INSERT_OR_UPDATE">
+            <filter/>
+            <list_id display_value="New cases - Workspace Gav test 0" name="x_1202935_demogr_0_new_cases" related_list="NULL" sys_domain="global" view="b4381c216cfbf510f048e77e46b0d6c1">cb2489b32ff3b150b04e49e72799b6fb</list_id>
+            <order_by/>
+            <position>0</position>
+            <related_list>REL:366eda7b0a0004970a7d925c9258806b</related_list>
+            <sys_class_name>sys_ui_related_list_entry</sys_class_name>
+            <sys_created_by>emeka</sys_created_by>
+            <sys_created_on>2024-01-24 14:47:03</sys_created_on>
+            <sys_id>072489b32ff3b150b04e49e72799b6fd</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>emeka</sys_updated_by>
+            <sys_updated_on>2024-01-24 14:47:03</sys_updated_on>
+        </sys_ui_related_list_entry>
+        <sys_ui_related_list_entry action="INSERT_OR_UPDATE">
+            <filter/>
+            <list_id display_value="New cases - Workspace Gav test 0" name="x_1202935_demogr_0_new_cases" related_list="NULL" sys_domain="global" view="b4381c216cfbf510f048e77e46b0d6c1">cb2489b32ff3b150b04e49e72799b6fb</list_id>
+            <order_by/>
+            <position>1</position>
+            <related_list>REL:b1d2db5377311110114329354f5a997e</related_list>
+            <sys_class_name>sys_ui_related_list_entry</sys_class_name>
+            <sys_created_by>emeka</sys_created_by>
+            <sys_created_on>2024-01-24 14:47:03</sys_created_on>
+            <sys_id>4f2489b32ff3b150b04e49e72799b6fd</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>emeka</sys_updated_by>
+            <sys_updated_on>2024-01-24 14:47:03</sys_updated_on>
+        </sys_ui_related_list_entry>
+        <sys_ui_related_list_entry action="INSERT_OR_UPDATE">
+            <filter/>
+            <list_id display_value="New cases - Workspace Gav test 0" name="x_1202935_demogr_0_new_cases" related_list="NULL" sys_domain="global" view="b4381c216cfbf510f048e77e46b0d6c1">cb2489b32ff3b150b04e49e72799b6fb</list_id>
+            <order_by/>
+            <position>2</position>
+            <related_list>REL:0e7a34a0d732120058c92cf65e6103cd</related_list>
+            <sys_class_name>sys_ui_related_list_entry</sys_class_name>
+            <sys_created_by>emeka</sys_created_by>
+            <sys_created_on>2024-01-24 14:47:03</sys_created_on>
+            <sys_id>432489b32ff3b150b04e49e72799b6fe</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>emeka</sys_updated_by>
+            <sys_updated_on>2024-01-24 14:47:03</sys_updated_on>
+        </sys_ui_related_list_entry>
+        <sys_ui_related_list_entry action="INSERT_OR_UPDATE">
+            <filter/>
+            <list_id display_value="New cases - Workspace Gav test 0" name="x_1202935_demogr_0_new_cases" related_list="NULL" sys_domain="global" view="b4381c216cfbf510f048e77e46b0d6c1">cb2489b32ff3b150b04e49e72799b6fb</list_id>
+            <order_by/>
+            <position>3</position>
+            <related_list>REL:702782ce0a0a0b1b007514c6daa62dd5</related_list>
+            <sys_class_name>sys_ui_related_list_entry</sys_class_name>
+            <sys_created_by>emeka</sys_created_by>
+            <sys_created_on>2024-01-24 14:47:03</sys_created_on>
+            <sys_id>472489b32ff3b150b04e49e72799b6fe</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>emeka</sys_updated_by>
+            <sys_updated_on>2024-01-24 14:47:03</sys_updated_on>
+        </sys_ui_related_list_entry>
+        <sys_ui_related_list action="INSERT_OR_UPDATE">
+            <calculated_name>New cases - Workspace Gav test 0</calculated_name>
+            <filter/>
+            <name>x_1202935_demogr_0_new_cases</name>
+            <order_by/>
+            <position/>
+            <related_list/>
+            <sys_class_name>sys_ui_related_list</sys_class_name>
+            <sys_created_by>emeka</sys_created_by>
+            <sys_created_on>2024-01-24 14:47:03</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>cb2489b32ff3b150b04e49e72799b6fb</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>New cases - Workspace Gav test 0</sys_name>
+            <sys_package display_value="Demographic Services v2" source="x_1202935_dsates_0">03c041592f233110b04e49e72799b6ff</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Demographic Services v2">03c041592f233110b04e49e72799b6ff</sys_scope>
+            <sys_update_name>sys_ui_related_x_1202935_demogr_0_new_cases_workspace-gav-test-0</sys_update_name>
+            <sys_updated_by>emeka</sys_updated_by>
+            <sys_updated_on>2024-01-24 14:47:03</sys_updated_on>
+            <sys_user/>
+            <view display_value="Workspace Gav test 0" name="workspace-gav-test-0">b4381c216cfbf510f048e77e46b0d6c1</view>
+            <view_name/>
+        </sys_ui_related_list>
+    </sys_ui_related>
+</record_update>

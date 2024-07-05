@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_page_property">
+    <sys_ux_page_property action="INSERT_OR_UPDATE">
+        <choices/>
+        <description>Tabs Configuration</description>
+        <name>chrome_tab</name>
+        <page display_value="Demographic services v2">b0381c21bbfbf51097cfdd7b6d00b1cb</page>
+        <required_translations>[ {
+  "message" : "New CHTable1",
+  "comment" : ""
+}, {
+  "message" : "New Case",
+  "comment" : ""
+}, {
+  "message" : "New Coaching Assessment",
+  "comment" : ""
+}, {
+  "message" : "New Demographic Case v1",
+  "comment" : ""
+} ]</required_translations>
+        <route/>
+        <suffix/>
+        <sys_class_name>sys_ux_page_property</sys_class_name>
+        <sys_created_by>Gavin</sys_created_by>
+        <sys_created_on>2024-01-17 11:48:38</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>global</sys_domain_path>
+        <sys_id>78381c2113fbf5100c61505e6837f0bb</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>chrome_tab</sys_name>
+        <sys_package display_value="Demographic Services v2" source="x_1202935_dsates_0">03c041592f233110b04e49e72799b6ff</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Demographic Services v2">03c041592f233110b04e49e72799b6ff</sys_scope>
+        <sys_update_name>sys_ux_page_property_78381c2113fbf5100c61505e6837f0bb</sys_update_name>
+        <sys_updated_by>Gavin</sys_updated_by>
+        <sys_updated_on>2024-01-17 11:48:45</sys_updated_on>
+        <type>json</type>
+        <unique_name>x_1202935_dsates_0.b0381c21bbfbf51097cfdd7b6d00b1cb.root.chrome_tab</unique_name>
+        <value>{"contextual":["record"],"newTabMenu":[{"label":{"translatable":true,"message":"New Case"},"routeInfo":{"route":"record","fields":{"table":"sn_customerservice_case","sysId":"-1"},"multiInstField":"sysId"},"condition":{"tableDescription":{"table":"sn_customerservice_case","canCreate":true}}},{"label":{"translatable":true,"message":"New CHTable1"},"routeInfo":{"route":"record","fields":{"table":"x_1202935_test_a_0_chtable1","sysId":"-1"},"multiInstField":"sysId"},"condition":{"tableDescription":{"table":"x_1202935_test_a_0_chtable1","canCreate":true}}},{"label":{"translatable":true,"message":"New Demographic Case v1"},"routeInfo":{"route":"record","fields":{"table":"u_demographic_case_v1","sysId":"-1"},"multiInstField":"sysId"},"condition":{"tableDescription":{"table":"u_demographic_case_v1","canCreate":true}}},{"label":{"translatable":true,"message":"New Coaching Assessment"},"routeInfo":{"route":"record","fields":{"table":"sn_coaching_assessment","sysId":"-1"},"multiInstField":"sysId"},"condition":{"tableDescription":{"table":"sn_coaching_assessment","canCreate":true}}}],"maxMainTabLimit":10,"maxTotalSubTabLimit":30}</value>
+    </sys_ux_page_property>
+    <sys_translated_text action="delete_multiple" query="documentkey=78381c2113fbf5100c61505e6837f0bb"/>
+</record_update>

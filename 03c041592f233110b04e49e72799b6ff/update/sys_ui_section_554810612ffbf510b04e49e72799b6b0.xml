@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="Snapshot" section_id="554810612ffbf510b04e49e72799b6b0" sys_domain="global" table="sn_coaching_assessment" version="3" view="workspace-gav-test-0">
+        <sys_ui_annotation action="INSERT_OR_UPDATE">
+            <is_plain_text>false</is_plain_text>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-10-17 18:47:50</sys_created_on>
+            <sys_id>a1de141c73112300ed1831ff2ef6a7af</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-10-17 18:47:50</sys_updated_on>
+            <text>Review the contents of this field for contextual information about the task, action, or behavior being assessed and 
+provide your feedback in the Notes and Feedback tabs.</text>
+            <type display_value="Info Box Blue">753f88a80f930000b12e6903cfe01206</type>
+        </sys_ui_annotation>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>a1de141c73112300ed1831ff2ef6a7af</element>
+            <position>0</position>
+            <sys_created_by>Gavin</sys_created_by>
+            <sys_created_on>2024-01-17 11:48:54</sys_created_on>
+            <sys_id>9d4810612ffbf510b04e49e72799b6b1</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Snapshot" display_value="Snapshot" name="sn_coaching_assessment" sys_domain="global" view="b4381c216cfbf510f048e77e46b0d6c1">554810612ffbf510b04e49e72799b6b0</sys_ui_section>
+            <sys_updated_by>Gavin</sys_updated_by>
+            <sys_updated_on>2024-01-17 11:48:54</sys_updated_on>
+            <sys_user/>
+            <type>annotation</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>snapshot</element>
+            <position>1</position>
+            <sys_created_by>Gavin</sys_created_by>
+            <sys_created_on>2024-01-17 11:48:54</sys_created_on>
+            <sys_id>914810612ffbf510b04e49e72799b6b2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Snapshot" display_value="Snapshot" name="sn_coaching_assessment" sys_domain="global" view="b4381c216cfbf510f048e77e46b0d6c1">554810612ffbf510b04e49e72799b6b0</sys_ui_section>
+            <sys_updated_by>Gavin</sys_updated_by>
+            <sys_updated_on>2024-01-17 11:48:54</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption>Snapshot</caption>
+            <header>false</header>
+            <name>sn_coaching_assessment</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>Gavin</sys_created_by>
+            <sys_created_on>2024-01-17 11:48:54</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>554810612ffbf510b04e49e72799b6b0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>sn_coaching_assessment</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Demographic Services v2" source="x_1202935_dsates_0">03c041592f233110b04e49e72799b6ff</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Demographic Services v2">03c041592f233110b04e49e72799b6ff</sys_scope>
+            <sys_update_name>sys_ui_section_554810612ffbf510b04e49e72799b6b0</sys_update_name>
+            <sys_updated_by>Gavin</sys_updated_by>
+            <sys_updated_on>2024-01-17 11:48:54</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Workspace Gav test 0" name="workspace-gav-test-0">b4381c216cfbf510f048e77e46b0d6c1</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

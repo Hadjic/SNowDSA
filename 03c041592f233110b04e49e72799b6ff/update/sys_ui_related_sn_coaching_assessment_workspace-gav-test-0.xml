@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_related sys_domain="global" table="sn_coaching_assessment" version="2" view="workspace-gav-test-0">
+        <sys_ui_related_list_entry action="INSERT_OR_UPDATE">
+            <filter/>
+            <list_id display_value="Coaching Assessment - Workspace Gav test 0" name="sn_coaching_assessment" related_list="NULL" sys_domain="global" view="b4381c216cfbf510f048e77e46b0d6c1">c14810612ffbf510b04e49e72799b691</list_id>
+            <order_by/>
+            <position>0</position>
+            <related_list>REL:cc9becfb733313005e4a73a24ff6a731</related_list>
+            <sys_class_name>sys_ui_related_list_entry</sys_class_name>
+            <sys_created_by>Gavin</sys_created_by>
+            <sys_created_on>2024-01-17 11:48:54</sys_created_on>
+            <sys_id>894810612ffbf510b04e49e72799b691</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>Gavin</sys_updated_by>
+            <sys_updated_on>2024-01-17 11:48:54</sys_updated_on>
+        </sys_ui_related_list_entry>
+        <sys_ui_related_list_entry action="INSERT_OR_UPDATE">
+            <filter/>
+            <list_id display_value="Coaching Assessment - Workspace Gav test 0" name="sn_coaching_assessment" related_list="NULL" sys_domain="global" view="b4381c216cfbf510f048e77e46b0d6c1">c14810612ffbf510b04e49e72799b691</list_id>
+            <order_by/>
+            <position>1</position>
+            <related_list>sn_lc_learning_task.coaching_assessment</related_list>
+            <sys_class_name>sys_ui_related_list_entry</sys_class_name>
+            <sys_created_by>Gavin</sys_created_by>
+            <sys_created_on>2024-01-17 11:48:54</sys_created_on>
+            <sys_id>8d4810612ffbf510b04e49e72799b691</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>Gavin</sys_updated_by>
+            <sys_updated_on>2024-01-17 11:48:54</sys_updated_on>
+        </sys_ui_related_list_entry>
+        <sys_ui_related_list_entry action="INSERT_OR_UPDATE">
+            <filter/>
+            <list_id display_value="Coaching Assessment - Workspace Gav test 0" name="sn_coaching_assessment" related_list="NULL" sys_domain="global" view="b4381c216cfbf510f048e77e46b0d6c1">c14810612ffbf510b04e49e72799b691</list_id>
+            <order_by/>
+            <position>2</position>
+            <related_list>REL:e1c1dfda773323000f7a72f9691061ca</related_list>
+            <sys_class_name>sys_ui_related_list_entry</sys_class_name>
+            <sys_created_by>Gavin</sys_created_by>
+            <sys_created_on>2024-01-17 11:48:54</sys_created_on>
+            <sys_id>814810612ffbf510b04e49e72799b692</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>Gavin</sys_updated_by>
+            <sys_updated_on>2024-01-17 11:48:54</sys_updated_on>
+        </sys_ui_related_list_entry>
+        <sys_ui_related_list_entry action="INSERT_OR_UPDATE">
+            <filter/>
+            <list_id display_value="Coaching Assessment - Workspace Gav test 0" name="sn_coaching_assessment" related_list="NULL" sys_domain="global" view="b4381c216cfbf510f048e77e46b0d6c1">c14810612ffbf510b04e49e72799b691</list_id>
+            <order_by/>
+            <position>3</position>
+            <related_list>REL:878fa790772033000f7a72f969106151</related_list>
+            <sys_class_name>sys_ui_related_list_entry</sys_class_name>
+            <sys_created_by>Gavin</sys_created_by>
+            <sys_created_on>2024-01-17 11:48:54</sys_created_on>
+            <sys_id>854810612ffbf510b04e49e72799b692</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>Gavin</sys_updated_by>
+            <sys_updated_on>2024-01-17 11:48:54</sys_updated_on>
+        </sys_ui_related_list_entry>
+        <sys_ui_related_list_entry action="INSERT_OR_UPDATE">
+            <filter/>
+            <list_id display_value="Coaching Assessment - Workspace Gav test 0" name="sn_coaching_assessment" related_list="NULL" sys_domain="global" view="b4381c216cfbf510f048e77e46b0d6c1">c14810612ffbf510b04e49e72799b691</list_id>
+            <order_by/>
+            <position>4</position>
+            <related_list>REL:e019e0aa0b0023000f7ac15885673a73</related_list>
+            <sys_class_name>sys_ui_related_list_entry</sys_class_name>
+            <sys_created_by>Gavin</sys_created_by>
+            <sys_created_on>2024-01-17 11:48:54</sys_created_on>
+            <sys_id>894810612ffbf510b04e49e72799b692</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>Gavin</sys_updated_by>
+            <sys_updated_on>2024-01-17 11:48:54</sys_updated_on>
+        </sys_ui_related_list_entry>
+        <sys_ui_related_list action="INSERT_OR_UPDATE">
+            <calculated_name>Coaching Assessment - Workspace Gav test 0</calculated_name>
+            <filter/>
+            <name>sn_coaching_assessment</name>
+            <order_by/>
+            <position/>
+            <related_list/>
+            <sys_class_name>sys_ui_related_list</sys_class_name>
+            <sys_created_by>Gavin</sys_created_by>
+            <sys_created_on>2024-01-17 11:48:54</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>c14810612ffbf510b04e49e72799b691</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Coaching Assessment - Workspace Gav test 0</sys_name>
+            <sys_package display_value="Demographic Services v2" source="x_1202935_dsates_0">03c041592f233110b04e49e72799b6ff</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Demographic Services v2">03c041592f233110b04e49e72799b6ff</sys_scope>
+            <sys_update_name>sys_ui_related_sn_coaching_assessment_workspace-gav-test-0</sys_update_name>
+            <sys_updated_by>Gavin</sys_updated_by>
+            <sys_updated_on>2024-01-17 11:48:54</sys_updated_on>
+            <sys_user/>
+            <view display_value="Workspace Gav test 0" name="workspace-gav-test-0">b4381c216cfbf510f048e77e46b0d6c1</view>
+            <view_name/>
+        </sys_ui_related_list>
+    </sys_ui_related>
+</record_update>

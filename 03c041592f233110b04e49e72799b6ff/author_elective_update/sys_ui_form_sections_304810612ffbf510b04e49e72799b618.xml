@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_form_sections action="DELETE" form_id="304810612ffbf510b04e49e72799b618" sys_domain="global" table="x_1202935_test_a_0_chtable1" version="3">
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>0</position>
+            <sys_created_by>Gavin</sys_created_by>
+            <sys_created_on>2024-01-17 11:48:52</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>b44810612ffbf510b04e49e72799b61b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_1202935_test_a_0_chtable1" name="x_1202935_test_a_0_chtable1" sys_domain="global" view="b4381c216cfbf510f048e77e46b0d6c1">304810612ffbf510b04e49e72799b618</sys_ui_form>
+            <sys_ui_section caption="NULL" display_value="" name="x_1202935_test_a_0_chtable1" sys_domain="global" view="b4381c216cfbf510f048e77e46b0d6c1">784810612ffbf510b04e49e72799b61a</sys_ui_section>
+            <sys_updated_by>Gavin</sys_updated_by>
+            <sys_updated_on>2024-01-17 11:48:52</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>1</position>
+            <sys_created_by>Gavin</sys_created_by>
+            <sys_created_on>2024-01-17 11:48:52</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>7c4810612ffbf510b04e49e72799b630</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_1202935_test_a_0_chtable1" name="x_1202935_test_a_0_chtable1" sys_domain="global" view="b4381c216cfbf510f048e77e46b0d6c1">304810612ffbf510b04e49e72799b618</sys_ui_form>
+            <sys_ui_section caption="Basic details" display_value="Basic details" name="x_1202935_test_a_0_chtable1" sys_domain="global" view="b4381c216cfbf510f048e77e46b0d6c1">304810612ffbf510b04e49e72799b630</sys_ui_section>
+            <sys_updated_by>Gavin</sys_updated_by>
+            <sys_updated_on>2024-01-17 11:48:52</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>x_1202935_test_a_0_chtable1</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>Gavin</sys_created_by>
+            <sys_created_on>2024-01-17 11:48:52</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>304810612ffbf510b04e49e72799b618</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_1202935_test_a_0_chtable1</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="DSATestApp" source="x_1202935_dsates_0">03c041592f233110b04e49e72799b6ff</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="DSATestApp">03c041592f233110b04e49e72799b6ff</sys_scope>
+            <sys_update_name>sys_ui_form_sections_304810612ffbf510b04e49e72799b618</sys_update_name>
+            <sys_updated_by>Gavin</sys_updated_by>
+            <sys_updated_on>2024-01-17 11:48:52</sys_updated_on>
+            <sys_user/>
+            <view display_value="Workspace Gav test 0" name="workspace-gav-test-0">b4381c216cfbf510f048e77e46b0d6c1</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Demographic Services v2">03c041592f233110b04e49e72799b6ff</application>
+        <file_path/>
+        <instance_id>e4d1b260dbf0f3802f68c597059619a6</instance_id>
+        <instance_name>dev80171</instance_name>
+        <name>sys_ui_form_sections_304810612ffbf510b04e49e72799b618</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_ui_form_sections form_id="304810612ffbf510b04e49e72799b618" sys_domain="global" table="x_1202935_test_a_0_chtable1" version="3"><sys_ui_form_section action="INSERT_OR_UPDATE"><position>0</position><sys_created_by>Gavin</sys_created_by><sys_created_on>2024-01-17 11:48:52</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>b44810612ffbf510b04e49e72799b61b</sys_id><sys_mod_count>0</sys_mod_count><sys_overrides/><sys_ui_form display_value="x_1202935_test_a_0_chtable1" name="x_1202935_test_a_0_chtable1" sys_domain="global" view="b4381c216cfbf510f048e77e46b0d6c1">304810612ffbf510b04e49e72799b618</sys_ui_form><sys_ui_section caption="NULL" display_value="" name="x_1202935_test_a_0_chtable1" sys_domain="global" view="b4381c216cfbf510f048e77e46b0d6c1">784810612ffbf510b04e49e72799b61a</sys_ui_section><sys_updated_by>Gavin</sys_updated_by><sys_updated_on>2024-01-17 11:48:52</sys_updated_on></sys_ui_form_section><sys_ui_form_section action="INSERT_OR_UPDATE"><position>1</position><sys_created_by>Gavin</sys_created_by><sys_created_on>2024-01-17 11:48:52</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>7c4810612ffbf510b04e49e72799b630</sys_id><sys_mod_count>0</sys_mod_count><sys_overrides/><sys_ui_form display_value="x_1202935_test_a_0_chtable1" name="x_1202935_test_a_0_chtable1" sys_domain="global" view="b4381c216cfbf510f048e77e46b0d6c1">304810612ffbf510b04e49e72799b618</sys_ui_form><sys_ui_section caption="Basic details" display_value="Basic details" name="x_1202935_test_a_0_chtable1" sys_domain="global" view="b4381c216cfbf510f048e77e46b0d6c1">304810612ffbf510b04e49e72799b630</sys_ui_section><sys_updated_by>Gavin</sys_updated_by><sys_updated_on>2024-01-17 11:48:52</sys_updated_on></sys_ui_form_section><sys_ui_form action="INSERT_OR_UPDATE"><name>x_1202935_test_a_0_chtable1</name><roles/><sys_class_name>sys_ui_form</sys_class_name><sys_created_by>Gavin</sys_created_by><sys_created_on>2024-01-17 11:48:52</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>304810612ffbf510b04e49e72799b618</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_1202935_test_a_0_chtable1</sys_name><sys_overrides/><sys_package display_value="DSATestApp" source="x_1202935_dsates_0">03c041592f233110b04e49e72799b6ff</sys_package><sys_policy/><sys_scope display_value="DSATestApp">03c041592f233110b04e49e72799b6ff</sys_scope><sys_update_name>sys_ui_form_sections_304810612ffbf510b04e49e72799b618</sys_update_name><sys_updated_by>Gavin</sys_updated_by><sys_updated_on>2024-01-17 11:48:52</sys_updated_on><sys_user/><view display_value="Workspace Gav test 0" name="workspace-gav-test-0">b4381c216cfbf510f048e77e46b0d6c1</view><view_name/></sys_ui_form></sys_ui_form_sections></record_update>]]></payload>
+        <payload_hash>-1430414472</payload_hash>
+        <record_name>CHTable1</record_name>
+        <reverted_from/>
+        <source>0bc081592f233110b04e49e72799b603</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>Gavin</sys_created_by>
+        <sys_created_on>2024-01-17 11:48:52</sys_created_on>
+        <sys_id>b04810612ffbf510b04e49e72799b62e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18d1740b4200000001</sys_recorded_at>
+        <sys_updated_by>Gavin</sys_updated_by>
+        <sys_updated_on>2024-01-17 11:48:52</sys_updated_on>
+        <type>Form Sections</type>
+        <update_guid>784810613cfbf510ab1c7c545d5dcd2d</update_guid>
+        <update_guid_history>784810613cfbf510ab1c7c545d5dcd2d:-1430414472,b0481061b8fbf51036eb44edc4a1f119:-729827957</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>emeka</sys_created_by>
+        <sys_created_on>2024-01-24 10:37:50</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_form">sys_ui_form</sys_db_object>
+        <sys_id>4e39a0c40f004cf892fcb82e6c0fe410</sys_id>
+        <sys_metadata>304810612ffbf510b04e49e72799b618</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_1202935_test_a_0_chtable1</sys_name>
+        <sys_package display_value="Demographic Services v2" source="x_1202935_dsates_0">03c041592f233110b04e49e72799b6ff</sys_package>
+        <sys_parent display_value="">9f98750d2f767110b04e49e72799b64b</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Demographic Services v2">03c041592f233110b04e49e72799b6ff</sys_scope>
+        <sys_scope_delete display_value="">9c53f5fa9cec4e44b642f42f279f2810</sys_scope_delete>
+        <sys_update_name>sys_ui_form_sections_304810612ffbf510b04e49e72799b618</sys_update_name>
+        <sys_update_version display_value="sys_ui_form_sections_304810612ffbf510b04e49e72799b618">b04810612ffbf510b04e49e72799b62e</sys_update_version>
+        <sys_updated_by>emeka</sys_updated_by>
+        <sys_updated_on>2024-01-24 10:37:50</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

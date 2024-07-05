@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="ais_search_profile_ais_search_source_m2m">
+    <ais_search_profile_ais_search_source_m2m action="DELETE">
+        <profile display_value="gav-test Search Profile">74381c21fffbf510d9d62b1f173409cb</profile>
+        <search_source display_value="CHTable1">9b389c212ffbf510b04e49e72799b6d7</search_source>
+        <sys_class_name>ais_search_profile_ais_search_source_m2m</sys_class_name>
+        <sys_created_by>Gavin</sys_created_by>
+        <sys_created_on>2024-01-17 11:48:46</sys_created_on>
+        <sys_id>57389c212ffbf510b04e49e72799b6da</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>gav-test Search Profile.CHTable1</sys_name>
+        <sys_package display_value="DSATestApp" source="x_1202935_dsates_0">03c041592f233110b04e49e72799b6ff</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="DSATestApp">03c041592f233110b04e49e72799b6ff</sys_scope>
+        <sys_update_name>ais_search_profile_ais_search_source_m2m_57389c212ffbf510b04e49e72799b6da</sys_update_name>
+        <sys_updated_by>Gavin</sys_updated_by>
+        <sys_updated_on>2024-01-17 11:48:46</sys_updated_on>
+    </ais_search_profile_ais_search_source_m2m>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Demographic Services v2">03c041592f233110b04e49e72799b6ff</application>
+        <file_path/>
+        <instance_id>e4d1b260dbf0f3802f68c597059619a6</instance_id>
+        <instance_name>dev80171</instance_name>
+        <name>ais_search_profile_ais_search_source_m2m_57389c212ffbf510b04e49e72799b6da</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="ais_search_profile_ais_search_source_m2m"><ais_search_profile_ais_search_source_m2m action="INSERT_OR_UPDATE"><profile display_value="gav-test Search Profile">74381c21fffbf510d9d62b1f173409cb</profile><search_source display_value="CHTable1">9b389c212ffbf510b04e49e72799b6d7</search_source><sys_class_name>ais_search_profile_ais_search_source_m2m</sys_class_name><sys_created_by>Gavin</sys_created_by><sys_created_on>2024-01-17 11:48:46</sys_created_on><sys_id>57389c212ffbf510b04e49e72799b6da</sys_id><sys_mod_count>0</sys_mod_count><sys_name>gav-test Search Profile.CHTable1</sys_name><sys_package display_value="DSATestApp" source="x_1202935_dsates_0">03c041592f233110b04e49e72799b6ff</sys_package><sys_policy/><sys_scope display_value="DSATestApp">03c041592f233110b04e49e72799b6ff</sys_scope><sys_update_name>ais_search_profile_ais_search_source_m2m_57389c212ffbf510b04e49e72799b6da</sys_update_name><sys_updated_by>Gavin</sys_updated_by><sys_updated_on>2024-01-17 11:48:46</sys_updated_on></ais_search_profile_ais_search_source_m2m></record_update>]]></payload>
+        <payload_hash>1059719255</payload_hash>
+        <record_name>gav-test Search Profile.CHTable1</record_name>
+        <reverted_from/>
+        <source>0bc081592f233110b04e49e72799b603</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>Gavin</sys_created_by>
+        <sys_created_on>2024-01-17 11:48:47</sys_created_on>
+        <sys_id>af389c212ffbf510b04e49e72799b6e0</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18d17409df20000001</sys_recorded_at>
+        <sys_updated_by>Gavin</sys_updated_by>
+        <sys_updated_on>2024-01-17 11:48:47</sys_updated_on>
+        <type>AI Search Search Profile Search Source M</type>
+        <update_guid>e3389c210bfbf51058b2d71b79db38e0</update_guid>
+        <update_guid_history>e3389c210bfbf51058b2d71b79db38e0:1059719255</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="gav-test Search Profile.CHTable1">dea0f4082fc0c250b04e49e72799b685</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-01-25 08:00:17</sys_created_on>
+        <sys_db_object display_value="" name="ais_search_profile_ais_search_source_m2m">ais_search_profile_ais_search_source_m2m</sys_db_object>
+        <sys_id>7d298bca8c2f41ac8f66a0d03a02f5c4</sys_id>
+        <sys_metadata>57389c212ffbf510b04e49e72799b6da</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>gav-test Search Profile.CHTable1</sys_name>
+        <sys_package display_value="Demographic Services v2" source="x_1202935_dsates_0">03c041592f233110b04e49e72799b6ff</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Demographic Services v2">03c041592f233110b04e49e72799b6ff</sys_scope>
+        <sys_scope_delete display_value="">9c53f5fa9cec4e44b642f42f279f2810</sys_scope_delete>
+        <sys_update_name>ais_search_profile_ais_search_source_m2m_57389c212ffbf510b04e49e72799b6da</sys_update_name>
+        <sys_update_version display_value="ais_search_profile_ais_search_source_m2m_57389c212ffbf510b04e49e72799b6da">af389c212ffbf510b04e49e72799b6e0</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-01-25 08:00:17</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

@@ -1,0 +1,497 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_list action="DELETE" parent="" relationship="" sys_domain="global" table="x_1202935_test_a_0_chtable1" version="2" view="workspace-gav-test-0">
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>action_type</element>
+            <list_id display_value="x_1202935_test_a_0_chtable1" element="NULL" name="x_1202935_test_a_0_chtable1" parent="NULL" relationship="NULL" sys_domain="global" view="b4381c216cfbf510f048e77e46b0d6c1">3c48dc212ffbf510b04e49e72799b6f7</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>0</position>
+            <sum>false</sum>
+            <sys_created_by>Gavin</sys_created_by>
+            <sys_created_on>2024-01-17 11:48:52</sys_created_on>
+            <sys_id>f048dc212ffbf510b04e49e72799b6f8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>Gavin</sys_updated_by>
+            <sys_updated_on>2024-01-17 11:48:52</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>nhs_number</element>
+            <list_id display_value="x_1202935_test_a_0_chtable1" element="NULL" name="x_1202935_test_a_0_chtable1" parent="NULL" relationship="NULL" sys_domain="global" view="b4381c216cfbf510f048e77e46b0d6c1">3c48dc212ffbf510b04e49e72799b6f7</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>1</position>
+            <sum>false</sum>
+            <sys_created_by>Gavin</sys_created_by>
+            <sys_created_on>2024-01-17 11:48:52</sys_created_on>
+            <sys_id>f448dc212ffbf510b04e49e72799b6f8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>Gavin</sys_updated_by>
+            <sys_updated_on>2024-01-17 11:48:52</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>name_type</element>
+            <list_id display_value="x_1202935_test_a_0_chtable1" element="NULL" name="x_1202935_test_a_0_chtable1" parent="NULL" relationship="NULL" sys_domain="global" view="b4381c216cfbf510f048e77e46b0d6c1">3c48dc212ffbf510b04e49e72799b6f7</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>2</position>
+            <sum>false</sum>
+            <sys_created_by>Gavin</sys_created_by>
+            <sys_created_on>2024-01-17 11:48:52</sys_created_on>
+            <sys_id>f848dc212ffbf510b04e49e72799b6f8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>Gavin</sys_updated_by>
+            <sys_updated_on>2024-01-17 11:48:52</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>title</element>
+            <list_id display_value="x_1202935_test_a_0_chtable1" element="NULL" name="x_1202935_test_a_0_chtable1" parent="NULL" relationship="NULL" sys_domain="global" view="b4381c216cfbf510f048e77e46b0d6c1">3c48dc212ffbf510b04e49e72799b6f7</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>3</position>
+            <sum>false</sum>
+            <sys_created_by>Gavin</sys_created_by>
+            <sys_created_on>2024-01-17 11:48:52</sys_created_on>
+            <sys_id>fc48dc212ffbf510b04e49e72799b6f8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>Gavin</sys_updated_by>
+            <sys_updated_on>2024-01-17 11:48:52</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>alternative_title</element>
+            <list_id display_value="x_1202935_test_a_0_chtable1" element="NULL" name="x_1202935_test_a_0_chtable1" parent="NULL" relationship="NULL" sys_domain="global" view="b4381c216cfbf510f048e77e46b0d6c1">3c48dc212ffbf510b04e49e72799b6f7</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>4</position>
+            <sum>false</sum>
+            <sys_created_by>Gavin</sys_created_by>
+            <sys_created_on>2024-01-17 11:48:52</sys_created_on>
+            <sys_id>f048dc212ffbf510b04e49e72799b6f9</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>Gavin</sys_updated_by>
+            <sys_updated_on>2024-01-17 11:48:52</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>surname</element>
+            <list_id display_value="x_1202935_test_a_0_chtable1" element="NULL" name="x_1202935_test_a_0_chtable1" parent="NULL" relationship="NULL" sys_domain="global" view="b4381c216cfbf510f048e77e46b0d6c1">3c48dc212ffbf510b04e49e72799b6f7</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>5</position>
+            <sum>false</sum>
+            <sys_created_by>Gavin</sys_created_by>
+            <sys_created_on>2024-01-17 11:48:52</sys_created_on>
+            <sys_id>f448dc212ffbf510b04e49e72799b6f9</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>Gavin</sys_updated_by>
+            <sys_updated_on>2024-01-17 11:48:52</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>forename</element>
+            <list_id display_value="x_1202935_test_a_0_chtable1" element="NULL" name="x_1202935_test_a_0_chtable1" parent="NULL" relationship="NULL" sys_domain="global" view="b4381c216cfbf510f048e77e46b0d6c1">3c48dc212ffbf510b04e49e72799b6f7</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>6</position>
+            <sum>false</sum>
+            <sys_created_by>Gavin</sys_created_by>
+            <sys_created_on>2024-01-17 11:48:52</sys_created_on>
+            <sys_id>f848dc212ffbf510b04e49e72799b6f9</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>Gavin</sys_updated_by>
+            <sys_updated_on>2024-01-17 11:48:52</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>other_name</element>
+            <list_id display_value="x_1202935_test_a_0_chtable1" element="NULL" name="x_1202935_test_a_0_chtable1" parent="NULL" relationship="NULL" sys_domain="global" view="b4381c216cfbf510f048e77e46b0d6c1">3c48dc212ffbf510b04e49e72799b6f7</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>7</position>
+            <sum>false</sum>
+            <sys_created_by>Gavin</sys_created_by>
+            <sys_created_on>2024-01-17 11:48:52</sys_created_on>
+            <sys_id>fc48dc212ffbf510b04e49e72799b6f9</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>Gavin</sys_updated_by>
+            <sys_updated_on>2024-01-17 11:48:52</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>suffix</element>
+            <list_id display_value="x_1202935_test_a_0_chtable1" element="NULL" name="x_1202935_test_a_0_chtable1" parent="NULL" relationship="NULL" sys_domain="global" view="b4381c216cfbf510f048e77e46b0d6c1">3c48dc212ffbf510b04e49e72799b6f7</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>8</position>
+            <sum>false</sum>
+            <sys_created_by>Gavin</sys_created_by>
+            <sys_created_on>2024-01-17 11:48:52</sys_created_on>
+            <sys_id>f048dc212ffbf510b04e49e72799b6fa</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>Gavin</sys_updated_by>
+            <sys_updated_on>2024-01-17 11:48:52</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>previous_nhs_contact_flag</element>
+            <list_id display_value="x_1202935_test_a_0_chtable1" element="NULL" name="x_1202935_test_a_0_chtable1" parent="NULL" relationship="NULL" sys_domain="global" view="b4381c216cfbf510f048e77e46b0d6c1">3c48dc212ffbf510b04e49e72799b6f7</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>9</position>
+            <sum>false</sum>
+            <sys_created_by>Gavin</sys_created_by>
+            <sys_created_on>2024-01-17 11:48:52</sys_created_on>
+            <sys_id>f448dc212ffbf510b04e49e72799b6fa</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>Gavin</sys_updated_by>
+            <sys_updated_on>2024-01-17 11:48:52</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>name_effective_from_date</element>
+            <list_id display_value="x_1202935_test_a_0_chtable1" element="NULL" name="x_1202935_test_a_0_chtable1" parent="NULL" relationship="NULL" sys_domain="global" view="b4381c216cfbf510f048e77e46b0d6c1">3c48dc212ffbf510b04e49e72799b6f7</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>10</position>
+            <sum>false</sum>
+            <sys_created_by>Gavin</sys_created_by>
+            <sys_created_on>2024-01-17 11:48:52</sys_created_on>
+            <sys_id>f848dc212ffbf510b04e49e72799b6fa</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>Gavin</sys_updated_by>
+            <sys_updated_on>2024-01-17 11:48:52</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>address_type</element>
+            <list_id display_value="x_1202935_test_a_0_chtable1" element="NULL" name="x_1202935_test_a_0_chtable1" parent="NULL" relationship="NULL" sys_domain="global" view="b4381c216cfbf510f048e77e46b0d6c1">3c48dc212ffbf510b04e49e72799b6f7</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>11</position>
+            <sum>false</sum>
+            <sys_created_by>Gavin</sys_created_by>
+            <sys_created_on>2024-01-17 11:48:52</sys_created_on>
+            <sys_id>fc48dc212ffbf510b04e49e72799b6fa</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>Gavin</sys_updated_by>
+            <sys_updated_on>2024-01-17 11:48:52</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>house_name_flat_number</element>
+            <list_id display_value="x_1202935_test_a_0_chtable1" element="NULL" name="x_1202935_test_a_0_chtable1" parent="NULL" relationship="NULL" sys_domain="global" view="b4381c216cfbf510f048e77e46b0d6c1">3c48dc212ffbf510b04e49e72799b6f7</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>12</position>
+            <sum>false</sum>
+            <sys_created_by>Gavin</sys_created_by>
+            <sys_created_on>2024-01-17 11:48:52</sys_created_on>
+            <sys_id>f048dc212ffbf510b04e49e72799b6fb</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>Gavin</sys_updated_by>
+            <sys_updated_on>2024-01-17 11:48:52</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>house_number_street_name</element>
+            <list_id display_value="x_1202935_test_a_0_chtable1" element="NULL" name="x_1202935_test_a_0_chtable1" parent="NULL" relationship="NULL" sys_domain="global" view="b4381c216cfbf510f048e77e46b0d6c1">3c48dc212ffbf510b04e49e72799b6f7</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>13</position>
+            <sum>false</sum>
+            <sys_created_by>Gavin</sys_created_by>
+            <sys_created_on>2024-01-17 11:48:52</sys_created_on>
+            <sys_id>f448dc212ffbf510b04e49e72799b6fb</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>Gavin</sys_updated_by>
+            <sys_updated_on>2024-01-17 11:48:52</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>locality</element>
+            <list_id display_value="x_1202935_test_a_0_chtable1" element="NULL" name="x_1202935_test_a_0_chtable1" parent="NULL" relationship="NULL" sys_domain="global" view="b4381c216cfbf510f048e77e46b0d6c1">3c48dc212ffbf510b04e49e72799b6f7</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>14</position>
+            <sum>false</sum>
+            <sys_created_by>Gavin</sys_created_by>
+            <sys_created_on>2024-01-17 11:48:52</sys_created_on>
+            <sys_id>f848dc212ffbf510b04e49e72799b6fb</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>Gavin</sys_updated_by>
+            <sys_updated_on>2024-01-17 11:48:52</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>town</element>
+            <list_id display_value="x_1202935_test_a_0_chtable1" element="NULL" name="x_1202935_test_a_0_chtable1" parent="NULL" relationship="NULL" sys_domain="global" view="b4381c216cfbf510f048e77e46b0d6c1">3c48dc212ffbf510b04e49e72799b6f7</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>15</position>
+            <sum>false</sum>
+            <sys_created_by>Gavin</sys_created_by>
+            <sys_created_on>2024-01-17 11:48:52</sys_created_on>
+            <sys_id>fc48dc212ffbf510b04e49e72799b6fb</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>Gavin</sys_updated_by>
+            <sys_updated_on>2024-01-17 11:48:52</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>county</element>
+            <list_id display_value="x_1202935_test_a_0_chtable1" element="NULL" name="x_1202935_test_a_0_chtable1" parent="NULL" relationship="NULL" sys_domain="global" view="b4381c216cfbf510f048e77e46b0d6c1">3c48dc212ffbf510b04e49e72799b6f7</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>16</position>
+            <sum>false</sum>
+            <sys_created_by>Gavin</sys_created_by>
+            <sys_created_on>2024-01-17 11:48:52</sys_created_on>
+            <sys_id>f048dc212ffbf510b04e49e72799b6fc</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>Gavin</sys_updated_by>
+            <sys_updated_on>2024-01-17 11:48:52</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>postcode</element>
+            <list_id display_value="x_1202935_test_a_0_chtable1" element="NULL" name="x_1202935_test_a_0_chtable1" parent="NULL" relationship="NULL" sys_domain="global" view="b4381c216cfbf510f048e77e46b0d6c1">3c48dc212ffbf510b04e49e72799b6f7</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>17</position>
+            <sum>false</sum>
+            <sys_created_by>Gavin</sys_created_by>
+            <sys_created_on>2024-01-17 11:48:52</sys_created_on>
+            <sys_id>f448dc212ffbf510b04e49e72799b6fc</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>Gavin</sys_updated_by>
+            <sys_updated_on>2024-01-17 11:48:52</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>paf_key</element>
+            <list_id display_value="x_1202935_test_a_0_chtable1" element="NULL" name="x_1202935_test_a_0_chtable1" parent="NULL" relationship="NULL" sys_domain="global" view="b4381c216cfbf510f048e77e46b0d6c1">3c48dc212ffbf510b04e49e72799b6f7</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>18</position>
+            <sum>false</sum>
+            <sys_created_by>Gavin</sys_created_by>
+            <sys_created_on>2024-01-17 11:48:52</sys_created_on>
+            <sys_id>f848dc212ffbf510b04e49e72799b6fc</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>Gavin</sys_updated_by>
+            <sys_updated_on>2024-01-17 11:48:52</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>address_effective_from_date</element>
+            <list_id display_value="x_1202935_test_a_0_chtable1" element="NULL" name="x_1202935_test_a_0_chtable1" parent="NULL" relationship="NULL" sys_domain="global" view="b4381c216cfbf510f048e77e46b0d6c1">3c48dc212ffbf510b04e49e72799b6f7</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>19</position>
+            <sum>false</sum>
+            <sys_created_by>Gavin</sys_created_by>
+            <sys_created_on>2024-01-17 11:48:52</sys_created_on>
+            <sys_id>fc48dc212ffbf510b04e49e72799b6fc</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>Gavin</sys_updated_by>
+            <sys_updated_on>2024-01-17 11:48:52</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>date_of_birth</element>
+            <list_id display_value="x_1202935_test_a_0_chtable1" element="NULL" name="x_1202935_test_a_0_chtable1" parent="NULL" relationship="NULL" sys_domain="global" view="b4381c216cfbf510f048e77e46b0d6c1">3c48dc212ffbf510b04e49e72799b6f7</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>20</position>
+            <sum>false</sum>
+            <sys_created_by>Gavin</sys_created_by>
+            <sys_created_on>2024-01-17 11:48:52</sys_created_on>
+            <sys_id>f048dc212ffbf510b04e49e72799b6fd</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>Gavin</sys_updated_by>
+            <sys_updated_on>2024-01-17 11:48:52</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>time_of_birth</element>
+            <list_id display_value="x_1202935_test_a_0_chtable1" element="NULL" name="x_1202935_test_a_0_chtable1" parent="NULL" relationship="NULL" sys_domain="global" view="b4381c216cfbf510f048e77e46b0d6c1">3c48dc212ffbf510b04e49e72799b6f7</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>21</position>
+            <sum>false</sum>
+            <sys_created_by>Gavin</sys_created_by>
+            <sys_created_on>2024-01-17 11:48:52</sys_created_on>
+            <sys_id>f448dc212ffbf510b04e49e72799b6fd</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>Gavin</sys_updated_by>
+            <sys_updated_on>2024-01-17 11:48:52</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>gender</element>
+            <list_id display_value="x_1202935_test_a_0_chtable1" element="NULL" name="x_1202935_test_a_0_chtable1" parent="NULL" relationship="NULL" sys_domain="global" view="b4381c216cfbf510f048e77e46b0d6c1">3c48dc212ffbf510b04e49e72799b6f7</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>22</position>
+            <sum>false</sum>
+            <sys_created_by>Gavin</sys_created_by>
+            <sys_created_on>2024-01-17 11:48:52</sys_created_on>
+            <sys_id>f848dc212ffbf510b04e49e72799b6fd</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>Gavin</sys_updated_by>
+            <sys_updated_on>2024-01-17 11:48:52</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>gender_notified_date</element>
+            <list_id display_value="x_1202935_test_a_0_chtable1" element="NULL" name="x_1202935_test_a_0_chtable1" parent="NULL" relationship="NULL" sys_domain="global" view="b4381c216cfbf510f048e77e46b0d6c1">3c48dc212ffbf510b04e49e72799b6f7</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>23</position>
+            <sum>false</sum>
+            <sys_created_by>Gavin</sys_created_by>
+            <sys_created_on>2024-01-17 11:48:52</sys_created_on>
+            <sys_id>fc48dc212ffbf510b04e49e72799b6fd</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>Gavin</sys_updated_by>
+            <sys_updated_on>2024-01-17 11:48:52</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>gp_practice_code</element>
+            <list_id display_value="x_1202935_test_a_0_chtable1" element="NULL" name="x_1202935_test_a_0_chtable1" parent="NULL" relationship="NULL" sys_domain="global" view="b4381c216cfbf510f048e77e46b0d6c1">3c48dc212ffbf510b04e49e72799b6f7</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>24</position>
+            <sum>false</sum>
+            <sys_created_by>Gavin</sys_created_by>
+            <sys_created_on>2024-01-17 11:48:52</sys_created_on>
+            <sys_id>f048dc212ffbf510b04e49e72799b6fe</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>Gavin</sys_updated_by>
+            <sys_updated_on>2024-01-17 11:48:52</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>gp_code_effective_from_date</element>
+            <list_id display_value="x_1202935_test_a_0_chtable1" element="NULL" name="x_1202935_test_a_0_chtable1" parent="NULL" relationship="NULL" sys_domain="global" view="b4381c216cfbf510f048e77e46b0d6c1">3c48dc212ffbf510b04e49e72799b6f7</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>25</position>
+            <sum>false</sum>
+            <sys_created_by>Gavin</sys_created_by>
+            <sys_created_on>2024-01-17 11:48:52</sys_created_on>
+            <sys_id>f448dc212ffbf510b04e49e72799b6fe</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>Gavin</sys_updated_by>
+            <sys_updated_on>2024-01-17 11:48:52</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>email_address</element>
+            <list_id display_value="x_1202935_test_a_0_chtable1" element="NULL" name="x_1202935_test_a_0_chtable1" parent="NULL" relationship="NULL" sys_domain="global" view="b4381c216cfbf510f048e77e46b0d6c1">3c48dc212ffbf510b04e49e72799b6f7</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>26</position>
+            <sum>false</sum>
+            <sys_created_by>Gavin</sys_created_by>
+            <sys_created_on>2024-01-17 11:48:52</sys_created_on>
+            <sys_id>f848dc212ffbf510b04e49e72799b6fe</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>Gavin</sys_updated_by>
+            <sys_updated_on>2024-01-17 11:48:52</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>mobile_phone_number</element>
+            <list_id display_value="x_1202935_test_a_0_chtable1" element="NULL" name="x_1202935_test_a_0_chtable1" parent="NULL" relationship="NULL" sys_domain="global" view="b4381c216cfbf510f048e77e46b0d6c1">3c48dc212ffbf510b04e49e72799b6f7</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>27</position>
+            <sum>false</sum>
+            <sys_created_by>Gavin</sys_created_by>
+            <sys_created_on>2024-01-17 11:48:52</sys_created_on>
+            <sys_id>fc48dc212ffbf510b04e49e72799b6fe</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>Gavin</sys_updated_by>
+            <sys_updated_on>2024-01-17 11:48:52</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element/>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <name>x_1202935_test_a_0_chtable1</name>
+            <parent/>
+            <position/>
+            <relationship/>
+            <sum>false</sum>
+            <sys_class_name>sys_ui_list</sys_class_name>
+            <sys_created_by>Gavin</sys_created_by>
+            <sys_created_on>2024-01-17 11:48:52</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>3c48dc212ffbf510b04e49e72799b6f7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_1202935_test_a_0_chtable1</sys_name>
+            <sys_package display_value="DSATestApp" source="x_1202935_dsates_0">03c041592f233110b04e49e72799b6ff</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="DSATestApp">03c041592f233110b04e49e72799b6ff</sys_scope>
+            <sys_update_name>sys_ui_list_x_1202935_test_a_0_chtable1_workspace-gav-test-0</sys_update_name>
+            <sys_updated_by>Gavin</sys_updated_by>
+            <sys_updated_on>2024-01-17 11:48:52</sys_updated_on>
+            <sys_user/>
+            <view display_value="Workspace Gav test 0" name="workspace-gav-test-0">b4381c216cfbf510f048e77e46b0d6c1</view>
+            <view_name/>
+        </sys_ui_list>
+    </sys_ui_list>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Demographic Services v2">03c041592f233110b04e49e72799b6ff</application>
+        <file_path/>
+        <instance_id>e4d1b260dbf0f3802f68c597059619a6</instance_id>
+        <instance_name>dev80171</instance_name>
+        <name>sys_ui_list_x_1202935_test_a_0_chtable1_workspace-gav-test-0</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_ui_list parent="" relationship="" sys_domain="global" table="x_1202935_test_a_0_chtable1" version="2" view="workspace-gav-test-0"><sys_ui_list_element action="INSERT_OR_UPDATE"><average_value>false</average_value><element>action_type</element><list_id display_value="x_1202935_test_a_0_chtable1" element="NULL" name="x_1202935_test_a_0_chtable1" parent="NULL" relationship="NULL" sys_domain="global" view="b4381c216cfbf510f048e77e46b0d6c1">3c48dc212ffbf510b04e49e72799b6f7</list_id><max_value>false</max_value><min_value>false</min_value><position>0</position><sum>false</sum><sys_created_by>Gavin</sys_created_by><sys_created_on>2024-01-17 11:48:52</sys_created_on><sys_id>f048dc212ffbf510b04e49e72799b6f8</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>Gavin</sys_updated_by><sys_updated_on>2024-01-17 11:48:52</sys_updated_on></sys_ui_list_element><sys_ui_list_element action="INSERT_OR_UPDATE"><average_value>false</average_value><element>nhs_number</element><list_id display_value="x_1202935_test_a_0_chtable1" element="NULL" name="x_1202935_test_a_0_chtable1" parent="NULL" relationship="NULL" sys_domain="global" view="b4381c216cfbf510f048e77e46b0d6c1">3c48dc212ffbf510b04e49e72799b6f7</list_id><max_value>false</max_value><min_value>false</min_value><position>1</position><sum>false</sum><sys_created_by>Gavin</sys_created_by><sys_created_on>2024-01-17 11:48:52</sys_created_on><sys_id>f448dc212ffbf510b04e49e72799b6f8</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>Gavin</sys_updated_by><sys_updated_on>2024-01-17 11:48:52</sys_updated_on></sys_ui_list_element><sys_ui_list_element action="INSERT_OR_UPDATE"><average_value>false</average_value><element>name_type</element><list_id display_value="x_1202935_test_a_0_chtable1" element="NULL" name="x_1202935_test_a_0_chtable1" parent="NULL" relationship="NULL" sys_domain="global" view="b4381c216cfbf510f048e77e46b0d6c1">3c48dc212ffbf510b04e49e72799b6f7</list_id><max_value>false</max_value><min_value>false</min_value><position>2</position><sum>false</sum><sys_created_by>Gavin</sys_created_by><sys_created_on>2024-01-17 11:48:52</sys_created_on><sys_id>f848dc212ffbf510b04e49e72799b6f8</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>Gavin</sys_updated_by><sys_updated_on>2024-01-17 11:48:52</sys_updated_on></sys_ui_list_element><sys_ui_list_element action="INSERT_OR_UPDATE"><average_value>false</average_value><element>title</element><list_id display_value="x_1202935_test_a_0_chtable1" element="NULL" name="x_1202935_test_a_0_chtable1" parent="NULL" relationship="NULL" sys_domain="global" view="b4381c216cfbf510f048e77e46b0d6c1">3c48dc212ffbf510b04e49e72799b6f7</list_id><max_value>false</max_value><min_value>false</min_value><position>3</position><sum>false</sum><sys_created_by>Gavin</sys_created_by><sys_created_on>2024-01-17 11:48:52</sys_created_on><sys_id>fc48dc212ffbf510b04e49e72799b6f8</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>Gavin</sys_updated_by><sys_updated_on>2024-01-17 11:48:52</sys_updated_on></sys_ui_list_element><sys_ui_list_element action="INSERT_OR_UPDATE"><average_value>false</average_value><element>alternative_title</element><list_id display_value="x_1202935_test_a_0_chtable1" element="NULL" name="x_1202935_test_a_0_chtable1" parent="NULL" relationship="NULL" sys_domain="global" view="b4381c216cfbf510f048e77e46b0d6c1">3c48dc212ffbf510b04e49e72799b6f7</list_id><max_value>false</max_value><min_value>false</min_value><position>4</position><sum>false</sum><sys_created_by>Gavin</sys_created_by><sys_created_on>2024-01-17 11:48:52</sys_created_on><sys_id>f048dc212ffbf510b04e49e72799b6f9</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>Gavin</sys_updated_by><sys_updated_on>2024-01-17 11:48:52</sys_updated_on></sys_ui_list_element><sys_ui_list_element action="INSERT_OR_UPDATE"><average_value>false</average_value><element>surname</element><list_id display_value="x_1202935_test_a_0_chtable1" element="NULL" name="x_1202935_test_a_0_chtable1" parent="NULL" relationship="NULL" sys_domain="global" view="b4381c216cfbf510f048e77e46b0d6c1">3c48dc212ffbf510b04e49e72799b6f7</list_id><max_value>false</max_value><min_value>false</min_value><position>5</position><sum>false</sum><sys_created_by>Gavin</sys_created_by><sys_created_on>2024-01-17 11:48:52</sys_created_on><sys_id>f448dc212ffbf510b04e49e72799b6f9</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>Gavin</sys_updated_by><sys_updated_on>2024-01-17 11:48:52</sys_updated_on></sys_ui_list_element><sys_ui_list_element action="INSERT_OR_UPDATE"><average_value>false</average_value><element>forename</element><list_id display_value="x_1202935_test_a_0_chtable1" element="NULL" name="x_1202935_test_a_0_chtable1" parent="NULL" relationship="NULL" sys_domain="global" view="b4381c216cfbf510f048e77e46b0d6c1">3c48dc212ffbf510b04e49e72799b6f7</list_id><max_value>false</max_value><min_value>false</min_value><position>6</position><sum>false</sum><sys_created_by>Gavin</sys_created_by><sys_created_on>2024-01-17 11:48:52</sys_created_on><sys_id>f848dc212ffbf510b04e49e72799b6f9</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>Gavin</sys_updated_by><sys_updated_on>2024-01-17 11:48:52</sys_updated_on></sys_ui_list_element><sys_ui_list_element action="INSERT_OR_UPDATE"><average_value>false</average_value><element>other_name</element><list_id display_value="x_1202935_test_a_0_chtable1" element="NULL" name="x_1202935_test_a_0_chtable1" parent="NULL" relationship="NULL" sys_domain="global" view="b4381c216cfbf510f048e77e46b0d6c1">3c48dc212ffbf510b04e49e72799b6f7</list_id><max_value>false</max_value><min_value>false</min_value><position>7</position><sum>false</sum><sys_created_by>Gavin</sys_created_by><sys_created_on>2024-01-17 11:48:52</sys_created_on><sys_id>fc48dc212ffbf510b04e49e72799b6f9</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>Gavin</sys_updated_by><sys_updated_on>2024-01-17 11:48:52</sys_updated_on></sys_ui_list_element><sys_ui_list_element action="INSERT_OR_UPDATE"><average_value>false</average_value><element>suffix</element><list_id display_value="x_1202935_test_a_0_chtable1" element="NULL" name="x_1202935_test_a_0_chtable1" parent="NULL" relationship="NULL" sys_domain="global" view="b4381c216cfbf510f048e77e46b0d6c1">3c48dc212ffbf510b04e49e72799b6f7</list_id><max_value>false</max_value><min_value>false</min_value><position>8</position><sum>false</sum><sys_created_by>Gavin</sys_created_by><sys_created_on>2024-01-17 11:48:52</sys_created_on><sys_id>f048dc212ffbf510b04e49e72799b6fa</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>Gavin</sys_updated_by><sys_updated_on>2024-01-17 11:48:52</sys_updated_on></sys_ui_list_element><sys_ui_list_element action="INSERT_OR_UPDATE"><average_value>false</average_value><element>previous_nhs_contact_flag</element><list_id display_value="x_1202935_test_a_0_chtable1" element="NULL" name="x_1202935_test_a_0_chtable1" parent="NULL" relationship="NULL" sys_domain="global" view="b4381c216cfbf510f048e77e46b0d6c1">3c48dc212ffbf510b04e49e72799b6f7</list_id><max_value>false</max_value><min_value>false</min_value><position>9</position><sum>false</sum><sys_created_by>Gavin</sys_created_by><sys_created_on>2024-01-17 11:48:52</sys_created_on><sys_id>f448dc212ffbf510b04e49e72799b6fa</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>Gavin</sys_updated_by><sys_updated_on>2024-01-17 11:48:52</sys_updated_on></sys_ui_list_element><sys_ui_list_element action="INSERT_OR_UPDATE"><average_value>false</average_value><element>name_effective_from_date</element><list_id display_value="x_1202935_test_a_0_chtable1" element="NULL" name="x_1202935_test_a_0_chtable1" parent="NULL" relationship="NULL" sys_domain="global" view="b4381c216cfbf510f048e77e46b0d6c1">3c48dc212ffbf510b04e49e72799b6f7</list_id><max_value>false</max_value><min_value>false</min_value><position>10</position><sum>false</sum><sys_created_by>Gavin</sys_created_by><sys_created_on>2024-01-17 11:48:52</sys_created_on><sys_id>f848dc212ffbf510b04e49e72799b6fa</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>Gavin</sys_updated_by><sys_updated_on>2024-01-17 11:48:52</sys_updated_on></sys_ui_list_element><sys_ui_list_element action="INSERT_OR_UPDATE"><average_value>false</average_value><element>address_type</element><list_id display_value="x_1202935_test_a_0_chtable1" element="NULL" name="x_1202935_test_a_0_chtable1" parent="NULL" relationship="NULL" sys_domain="global" view="b4381c216cfbf510f048e77e46b0d6c1">3c48dc212ffbf510b04e49e72799b6f7</list_id><max_value>false</max_value><min_value>false</min_value><position>11</position><sum>false</sum><sys_created_by>Gavin</sys_created_by><sys_created_on>2024-01-17 11:48:52</sys_created_on><sys_id>fc48dc212ffbf510b04e49e72799b6fa</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>Gavin</sys_updated_by><sys_updated_on>2024-01-17 11:48:52</sys_updated_on></sys_ui_list_element><sys_ui_list_element action="INSERT_OR_UPDATE"><average_value>false</average_value><element>house_name_flat_number</element><list_id display_value="x_1202935_test_a_0_chtable1" element="NULL" name="x_1202935_test_a_0_chtable1" parent="NULL" relationship="NULL" sys_domain="global" view="b4381c216cfbf510f048e77e46b0d6c1">3c48dc212ffbf510b04e49e72799b6f7</list_id><max_value>false</max_value><min_value>false</min_value><position>12</position><sum>false</sum><sys_created_by>Gavin</sys_created_by><sys_created_on>2024-01-17 11:48:52</sys_created_on><sys_id>f048dc212ffbf510b04e49e72799b6fb</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>Gavin</sys_updated_by><sys_updated_on>2024-01-17 11:48:52</sys_updated_on></sys_ui_list_element><sys_ui_list_element action="INSERT_OR_UPDATE"><average_value>false</average_value><element>house_number_street_name</element><list_id display_value="x_1202935_test_a_0_chtable1" element="NULL" name="x_1202935_test_a_0_chtable1" parent="NULL" relationship="NULL" sys_domain="global" view="b4381c216cfbf510f048e77e46b0d6c1">3c48dc212ffbf510b04e49e72799b6f7</list_id><max_value>false</max_value><min_value>false</min_value><position>13</position><sum>false</sum><sys_created_by>Gavin</sys_created_by><sys_created_on>2024-01-17 11:48:52</sys_created_on><sys_id>f448dc212ffbf510b04e49e72799b6fb</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>Gavin</sys_updated_by><sys_updated_on>2024-01-17 11:48:52</sys_updated_on></sys_ui_list_element><sys_ui_list_element action="INSERT_OR_UPDATE"><average_value>false</average_value><element>locality</element><list_id display_value="x_1202935_test_a_0_chtable1" element="NULL" name="x_1202935_test_a_0_chtable1" parent="NULL" relationship="NULL" sys_domain="global" view="b4381c216cfbf510f048e77e46b0d6c1">3c48dc212ffbf510b04e49e72799b6f7</list_id><max_value>false</max_value><min_value>false</min_value><position>14</position><sum>false</sum><sys_created_by>Gavin</sys_created_by><sys_created_on>2024-01-17 11:48:52</sys_created_on><sys_id>f848dc212ffbf510b04e49e72799b6fb</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>Gavin</sys_updated_by><sys_updated_on>2024-01-17 11:48:52</sys_updated_on></sys_ui_list_element><sys_ui_list_element action="INSERT_OR_UPDATE"><average_value>false</average_value><element>town</element><list_id display_value="x_1202935_test_a_0_chtable1" element="NULL" name="x_1202935_test_a_0_chtable1" parent="NULL" relationship="NULL" sys_domain="global" view="b4381c216cfbf510f048e77e46b0d6c1">3c48dc212ffbf510b04e49e72799b6f7</list_id><max_value>false</max_value><min_value>false</min_value><position>15</position><sum>false</sum><sys_created_by>Gavin</sys_created_by><sys_created_on>2024-01-17 11:48:52</sys_created_on><sys_id>fc48dc212ffbf510b04e49e72799b6fb</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>Gavin</sys_updated_by><sys_updated_on>2024-01-17 11:48:52</sys_updated_on></sys_ui_list_element><sys_ui_list_element action="INSERT_OR_UPDATE"><average_value>false</average_value><element>county</element><list_id display_value="x_1202935_test_a_0_chtable1" element="NULL" name="x_1202935_test_a_0_chtable1" parent="NULL" relationship="NULL" sys_domain="global" view="b4381c216cfbf510f048e77e46b0d6c1">3c48dc212ffbf510b04e49e72799b6f7</list_id><max_value>false</max_value><min_value>false</min_value><position>16</position><sum>false</sum><sys_created_by>Gavin</sys_created_by><sys_created_on>2024-01-17 11:48:52</sys_created_on><sys_id>f048dc212ffbf510b04e49e72799b6fc</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>Gavin</sys_updated_by><sys_updated_on>2024-01-17 11:48:52</sys_updated_on></sys_ui_list_element><sys_ui_list_element action="INSERT_OR_UPDATE"><average_value>false</average_value><element>postcode</element><list_id display_value="x_1202935_test_a_0_chtable1" element="NULL" name="x_1202935_test_a_0_chtable1" parent="NULL" relationship="NULL" sys_domain="global" view="b4381c216cfbf510f048e77e46b0d6c1">3c48dc212ffbf510b04e49e72799b6f7</list_id><max_value>false</max_value><min_value>false</min_value><position>17</position><sum>false</sum><sys_created_by>Gavin</sys_created_by><sys_created_on>2024-01-17 11:48:52</sys_created_on><sys_id>f448dc212ffbf510b04e49e72799b6fc</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>Gavin</sys_updated_by><sys_updated_on>2024-01-17 11:48:52</sys_updated_on></sys_ui_list_element><sys_ui_list_element action="INSERT_OR_UPDATE"><average_value>false</average_value><element>paf_key</element><list_id display_value="x_1202935_test_a_0_chtable1" element="NULL" name="x_1202935_test_a_0_chtable1" parent="NULL" relationship="NULL" sys_domain="global" view="b4381c216cfbf510f048e77e46b0d6c1">3c48dc212ffbf510b04e49e72799b6f7</list_id><max_value>false</max_value><min_value>false</min_value><position>18</position><sum>false</sum><sys_created_by>Gavin</sys_created_by><sys_created_on>2024-01-17 11:48:52</sys_created_on><sys_id>f848dc212ffbf510b04e49e72799b6fc</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>Gavin</sys_updated_by><sys_updated_on>2024-01-17 11:48:52</sys_updated_on></sys_ui_list_element><sys_ui_list_element action="INSERT_OR_UPDATE"><average_value>false</average_value><element>address_effective_from_date</element><list_id display_value="x_1202935_test_a_0_chtable1" element="NULL" name="x_1202935_test_a_0_chtable1" parent="NULL" relationship="NULL" sys_domain="global" view="b4381c216cfbf510f048e77e46b0d6c1">3c48dc212ffbf510b04e49e72799b6f7</list_id><max_value>false</max_value><min_value>false</min_value><position>19</position><sum>false</sum><sys_created_by>Gavin</sys_created_by><sys_created_on>2024-01-17 11:48:52</sys_created_on><sys_id>fc48dc212ffbf510b04e49e72799b6fc</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>Gavin</sys_updated_by><sys_updated_on>2024-01-17 11:48:52</sys_updated_on></sys_ui_list_element><sys_ui_list_element action="INSERT_OR_UPDATE"><average_value>false</average_value><element>date_of_birth</element><list_id display_value="x_1202935_test_a_0_chtable1" element="NULL" name="x_1202935_test_a_0_chtable1" parent="NULL" relationship="NULL" sys_domain="global" view="b4381c216cfbf510f048e77e46b0d6c1">3c48dc212ffbf510b04e49e72799b6f7</list_id><max_value>false</max_value><min_value>false</min_value><position>20</position><sum>false</sum><sys_created_by>Gavin</sys_created_by><sys_created_on>2024-01-17 11:48:52</sys_created_on><sys_id>f048dc212ffbf510b04e49e72799b6fd</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>Gavin</sys_updated_by><sys_updated_on>2024-01-17 11:48:52</sys_updated_on></sys_ui_list_element><sys_ui_list_element action="INSERT_OR_UPDATE"><average_value>false</average_value><element>time_of_birth</element><list_id display_value="x_1202935_test_a_0_chtable1" element="NULL" name="x_1202935_test_a_0_chtable1" parent="NULL" relationship="NULL" sys_domain="global" view="b4381c216cfbf510f048e77e46b0d6c1">3c48dc212ffbf510b04e49e72799b6f7</list_id><max_value>false</max_value><min_value>false</min_value><position>21</position><sum>false</sum><sys_created_by>Gavin</sys_created_by><sys_created_on>2024-01-17 11:48:52</sys_created_on><sys_id>f448dc212ffbf510b04e49e72799b6fd</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>Gavin</sys_updated_by><sys_updated_on>2024-01-17 11:48:52</sys_updated_on></sys_ui_list_element><sys_ui_list_element action="INSERT_OR_UPDATE"><average_value>false</average_value><element>gender</element><list_id display_value="x_1202935_test_a_0_chtable1" element="NULL" name="x_1202935_test_a_0_chtable1" parent="NULL" relationship="NULL" sys_domain="global" view="b4381c216cfbf510f048e77e46b0d6c1">3c48dc212ffbf510b04e49e72799b6f7</list_id><max_value>false</max_value><min_value>false</min_value><position>22</position><sum>false</sum><sys_created_by>Gavin</sys_created_by><sys_created_on>2024-01-17 11:48:52</sys_created_on><sys_id>f848dc212ffbf510b04e49e72799b6fd</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>Gavin</sys_updated_by><sys_updated_on>2024-01-17 11:48:52</sys_updated_on></sys_ui_list_element><sys_ui_list_element action="INSERT_OR_UPDATE"><average_value>false</average_value><element>gender_notified_date</element><list_id display_value="x_1202935_test_a_0_chtable1" element="NULL" name="x_1202935_test_a_0_chtable1" parent="NULL" relationship="NULL" sys_domain="global" view="b4381c216cfbf510f048e77e46b0d6c1">3c48dc212ffbf510b04e49e72799b6f7</list_id><max_value>false</max_value><min_value>false</min_value><position>23</position><sum>false</sum><sys_created_by>Gavin</sys_created_by><sys_created_on>2024-01-17 11:48:52</sys_created_on><sys_id>fc48dc212ffbf510b04e49e72799b6fd</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>Gavin</sys_updated_by><sys_updated_on>2024-01-17 11:48:52</sys_updated_on></sys_ui_list_element><sys_ui_list_element action="INSERT_OR_UPDATE"><average_value>false</average_value><element>gp_practice_code</element><list_id display_value="x_1202935_test_a_0_chtable1" element="NULL" name="x_1202935_test_a_0_chtable1" parent="NULL" relationship="NULL" sys_domain="global" view="b4381c216cfbf510f048e77e46b0d6c1">3c48dc212ffbf510b04e49e72799b6f7</list_id><max_value>false</max_value><min_value>false</min_value><position>24</position><sum>false</sum><sys_created_by>Gavin</sys_created_by><sys_created_on>2024-01-17 11:48:52</sys_created_on><sys_id>f048dc212ffbf510b04e49e72799b6fe</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>Gavin</sys_updated_by><sys_updated_on>2024-01-17 11:48:52</sys_updated_on></sys_ui_list_element><sys_ui_list_element action="INSERT_OR_UPDATE"><average_value>false</average_value><element>gp_code_effective_from_date</element><list_id display_value="x_1202935_test_a_0_chtable1" element="NULL" name="x_1202935_test_a_0_chtable1" parent="NULL" relationship="NULL" sys_domain="global" view="b4381c216cfbf510f048e77e46b0d6c1">3c48dc212ffbf510b04e49e72799b6f7</list_id><max_value>false</max_value><min_value>false</min_value><position>25</position><sum>false</sum><sys_created_by>Gavin</sys_created_by><sys_created_on>2024-01-17 11:48:52</sys_created_on><sys_id>f448dc212ffbf510b04e49e72799b6fe</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>Gavin</sys_updated_by><sys_updated_on>2024-01-17 11:48:52</sys_updated_on></sys_ui_list_element><sys_ui_list_element action="INSERT_OR_UPDATE"><average_value>false</average_value><element>email_address</element><list_id display_value="x_1202935_test_a_0_chtable1" element="NULL" name="x_1202935_test_a_0_chtable1" parent="NULL" relationship="NULL" sys_domain="global" view="b4381c216cfbf510f048e77e46b0d6c1">3c48dc212ffbf510b04e49e72799b6f7</list_id><max_value>false</max_value><min_value>false</min_value><position>26</position><sum>false</sum><sys_created_by>Gavin</sys_created_by><sys_created_on>2024-01-17 11:48:52</sys_created_on><sys_id>f848dc212ffbf510b04e49e72799b6fe</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>Gavin</sys_updated_by><sys_updated_on>2024-01-17 11:48:52</sys_updated_on></sys_ui_list_element><sys_ui_list_element action="INSERT_OR_UPDATE"><average_value>false</average_value><element>mobile_phone_number</element><list_id display_value="x_1202935_test_a_0_chtable1" element="NULL" name="x_1202935_test_a_0_chtable1" parent="NULL" relationship="NULL" sys_domain="global" view="b4381c216cfbf510f048e77e46b0d6c1">3c48dc212ffbf510b04e49e72799b6f7</list_id><max_value>false</max_value><min_value>false</min_value><position>27</position><sum>false</sum><sys_created_by>Gavin</sys_created_by><sys_created_on>2024-01-17 11:48:52</sys_created_on><sys_id>fc48dc212ffbf510b04e49e72799b6fe</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>Gavin</sys_updated_by><sys_updated_on>2024-01-17 11:48:52</sys_updated_on></sys_ui_list_element><sys_ui_list action="INSERT_OR_UPDATE"><average_value>false</average_value><element/><max_value>false</max_value><min_value>false</min_value><name>x_1202935_test_a_0_chtable1</name><parent/><position/><relationship/><sum>false</sum><sys_class_name>sys_ui_list</sys_class_name><sys_created_by>Gavin</sys_created_by><sys_created_on>2024-01-17 11:48:52</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>3c48dc212ffbf510b04e49e72799b6f7</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_1202935_test_a_0_chtable1</sys_name><sys_package display_value="DSATestApp" source="x_1202935_dsates_0">03c041592f233110b04e49e72799b6ff</sys_package><sys_policy/><sys_scope display_value="DSATestApp">03c041592f233110b04e49e72799b6ff</sys_scope><sys_update_name>sys_ui_list_x_1202935_test_a_0_chtable1_workspace-gav-test-0</sys_update_name><sys_updated_by>Gavin</sys_updated_by><sys_updated_on>2024-01-17 11:48:52</sys_updated_on><sys_user/><view display_value="Workspace Gav test 0" name="workspace-gav-test-0">b4381c216cfbf510f048e77e46b0d6c1</view><view_name/></sys_ui_list></sys_ui_list></record_update>]]></payload>
+        <payload_hash>-828846613</payload_hash>
+        <record_name>CHTable1</record_name>
+        <reverted_from/>
+        <source>0bc081592f233110b04e49e72799b603</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>Gavin</sys_created_by>
+        <sys_created_on>2024-01-17 11:48:53</sys_created_on>
+        <sys_id>cd4810612ffbf510b04e49e72799b645</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18d1740b59a0000001</sys_recorded_at>
+        <sys_updated_by>Gavin</sys_updated_by>
+        <sys_updated_on>2024-01-17 11:48:53</sys_updated_on>
+        <type>List Layout</type>
+        <update_guid>4548106105fbf510812e5e7978ab6e45</update_guid>
+        <update_guid_history>4548106105fbf510812e5e7978ab6e45:-828846613</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>emeka</sys_created_by>
+        <sys_created_on>2024-01-24 10:37:46</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_list">sys_ui_list</sys_db_object>
+        <sys_id>01aac3b4a1ac4cb785e7641911e105a1</sys_id>
+        <sys_metadata>3c48dc212ffbf510b04e49e72799b6f7</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_1202935_test_a_0_chtable1</sys_name>
+        <sys_package display_value="Demographic Services v2" source="x_1202935_dsates_0">03c041592f233110b04e49e72799b6ff</sys_package>
+        <sys_parent display_value="">9f98750d2f767110b04e49e72799b64b</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Demographic Services v2">03c041592f233110b04e49e72799b6ff</sys_scope>
+        <sys_scope_delete display_value="">9c53f5fa9cec4e44b642f42f279f2810</sys_scope_delete>
+        <sys_update_name>sys_ui_list_x_1202935_test_a_0_chtable1_workspace-gav-test-0</sys_update_name>
+        <sys_update_version display_value="sys_ui_list_x_1202935_test_a_0_chtable1_workspace-gav-test-0">cd4810612ffbf510b04e49e72799b645</sys_update_version>
+        <sys_updated_by>emeka</sys_updated_by>
+        <sys_updated_on>2024-01-24 10:37:46</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

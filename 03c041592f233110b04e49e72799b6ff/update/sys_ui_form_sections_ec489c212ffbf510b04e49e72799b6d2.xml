@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_form_sections form_id="ec489c212ffbf510b04e49e72799b6d2" sys_domain="global" table="sn_customerservice_case" version="3">
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>0</position>
+            <sys_created_by>Gavin</sys_created_by>
+            <sys_created_on>2024-01-17 11:48:51</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>e048dc212ffbf510b04e49e72799b693</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="sn_customerservice_case" name="sn_customerservice_case" sys_domain="global" view="b4381c216cfbf510f048e77e46b0d6c1">ec489c212ffbf510b04e49e72799b6d2</sys_ui_form>
+            <sys_ui_section caption="NULL" display_value="" name="sn_customerservice_case" sys_domain="global" view="b4381c216cfbf510f048e77e46b0d6c1">a848dc212ffbf510b04e49e72799b691</sys_ui_section>
+            <sys_updated_by>Gavin</sys_updated_by>
+            <sys_updated_on>2024-01-17 11:48:51</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>1</position>
+            <sys_created_by>Gavin</sys_created_by>
+            <sys_created_on>2024-01-17 11:48:51</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>6448dc212ffbf510b04e49e72799b6b4</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="sn_customerservice_case" name="sn_customerservice_case" sys_domain="global" view="b4381c216cfbf510f048e77e46b0d6c1">ec489c212ffbf510b04e49e72799b6d2</sys_ui_form>
+            <sys_ui_section caption="Notes" display_value="Notes" name="sn_customerservice_case" sys_domain="global" view="b4381c216cfbf510f048e77e46b0d6c1">6848dc212ffbf510b04e49e72799b69a</sys_ui_section>
+            <sys_updated_by>Gavin</sys_updated_by>
+            <sys_updated_on>2024-01-17 11:48:51</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>2</position>
+            <sys_created_by>Gavin</sys_created_by>
+            <sys_created_on>2024-01-17 11:48:51</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>6848dc212ffbf510b04e49e72799b6b8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="sn_customerservice_case" name="sn_customerservice_case" sys_domain="global" view="b4381c216cfbf510f048e77e46b0d6c1">ec489c212ffbf510b04e49e72799b6d2</sys_ui_form>
+            <sys_ui_section caption="Related Records" display_value="Related Records" name="sn_customerservice_case" sys_domain="global" view="b4381c216cfbf510f048e77e46b0d6c1">2c48dc212ffbf510b04e49e72799b6b7</sys_ui_section>
+            <sys_updated_by>Gavin</sys_updated_by>
+            <sys_updated_on>2024-01-17 11:48:51</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>3</position>
+            <sys_created_by>Gavin</sys_created_by>
+            <sys_created_on>2024-01-17 11:48:51</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>6848dc212ffbf510b04e49e72799b6bc</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="sn_customerservice_case" name="sn_customerservice_case" sys_domain="global" view="b4381c216cfbf510f048e77e46b0d6c1">ec489c212ffbf510b04e49e72799b6d2</sys_ui_form>
+            <sys_ui_section caption="Closure Information" display_value="Closure Information" name="sn_customerservice_case" sys_domain="global" view="b4381c216cfbf510f048e77e46b0d6c1">2c48dc212ffbf510b04e49e72799b6bb</sys_ui_section>
+            <sys_updated_by>Gavin</sys_updated_by>
+            <sys_updated_on>2024-01-17 11:48:51</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>sn_customerservice_case</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>Gavin</sys_created_by>
+            <sys_created_on>2024-01-17 11:48:51</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>ec489c212ffbf510b04e49e72799b6d2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>sn_customerservice_case</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Demographic Services v2" source="x_1202935_dsates_0">03c041592f233110b04e49e72799b6ff</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Demographic Services v2">03c041592f233110b04e49e72799b6ff</sys_scope>
+            <sys_update_name>sys_ui_form_sections_ec489c212ffbf510b04e49e72799b6d2</sys_update_name>
+            <sys_updated_by>Gavin</sys_updated_by>
+            <sys_updated_on>2024-01-17 11:48:51</sys_updated_on>
+            <sys_user/>
+            <view display_value="Workspace Gav test 0" name="workspace-gav-test-0">b4381c216cfbf510f048e77e46b0d6c1</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
+</record_update>
