@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_decision_question">
+    <sys_decision_question action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <answer>12309406870ac2903a5b62cf8bbb3511</answer>
+        <condition table="var__m_sys_decision_input_4a305406870ac2903a5b62cf8bbb3587">is_a_name_present=no<item display_value="No" endquery="false" field="is_a_name_present" goto="false" newquery="false" operator="=" or="false" value="no"/>
+        </condition>
+        <decision_table display_value="1 - name : c320d006870ac2903a5b62cf8bbb353b">4a305406870ac2903a5b62cf8bbb3587</decision_table>
+        <default_answer>false</default_answer>
+        <input_table>var__m_sys_decision_input_4a305406870ac2903a5b62cf8bbb3587</input_table>
+        <label>Name OK?</label>
+        <marked_for_deletion>false</marked_for_deletion>
+        <order>200</order>
+        <sys_class_name>sys_decision_question</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-05-09 20:52:00</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>66309406870ac2903a5b62cf8bbb35cf</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Name OK?</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Demographic Services v2" source="x_1202935_dsates_0">03c041592f233110b04e49e72799b6ff</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Demographic Services v2">03c041592f233110b04e49e72799b6ff</sys_scope>
+        <sys_update_name>sys_decision_question_66309406870ac2903a5b62cf8bbb35cf</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-05-09 20:52:00</sys_updated_on>
+    </sys_decision_question>
+</record_update>

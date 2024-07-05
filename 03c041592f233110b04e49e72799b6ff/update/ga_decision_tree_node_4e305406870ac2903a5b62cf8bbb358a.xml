@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="ga_decision_tree_node">
+    <ga_decision_tree_node action="INSERT_OR_UPDATE">
+        <decision_table display_value="1 - name : c320d006870ac2903a5b62cf8bbb353b">4a305406870ac2903a5b62cf8bbb3587</decision_table>
+        <decision_tree_version display_value="2">c320d006870ac2903a5b62cf8bbb353b</decision_tree_version>
+        <guidance/>
+        <guidance_inputs/>
+        <label>name </label>
+        <linked_decision_tree/>
+        <next_node/>
+        <sys_class_name>ga_decision_tree_node</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-05-09 20:51:59</sys_created_on>
+        <sys_id>4e305406870ac2903a5b62cf8bbb358a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>name </sys_name>
+        <sys_package display_value="Demographic Services v2" source="x_1202935_dsates_0">03c041592f233110b04e49e72799b6ff</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Demographic Services v2">03c041592f233110b04e49e72799b6ff</sys_scope>
+        <sys_update_name>ga_decision_tree_node_4e305406870ac2903a5b62cf8bbb358a</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-05-09 20:51:59</sys_updated_on>
+        <type>decision</type>
+    </ga_decision_tree_node>
+    <sys_variable_value action="delete_multiple" query="document_key=4e305406870ac2903a5b62cf8bbb358a"/>
+</record_update>

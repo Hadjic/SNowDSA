@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="ga_guidance_component">
+    <ga_guidance_component action="INSERT_OR_UPDATE">
+        <component/>
+        <component_properties/>
+        <experience_macroponent/>
+        <experience_screen/>
+        <guidance display_value="Propose resolution">636ecca277530010d7159b71a9106192</guidance>
+        <preview_macroponent display_value="Propose resolution">00efecadb7221110ca990f68ee11a944</preview_macroponent>
+        <preview_screen display_value="Propose resolution">fceefeca876502103a5b62cf8bbb355c</preview_screen>
+        <sys_class_name>ga_guidance_component</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-04-15 13:03:43</sys_created_on>
+        <sys_id>7ceefeca876502103a5b62cf8bbb3560</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Demographic Services v2" source="x_1202935_dsates_0">03c041592f233110b04e49e72799b6ff</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Demographic Services v2">03c041592f233110b04e49e72799b6ff</sys_scope>
+        <sys_update_name>ga_guidance_component_7ceefeca876502103a5b62cf8bbb3560</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-04-15 13:03:43</sys_updated_on>
+    </ga_guidance_component>
+    <sys_variable_value action="delete_multiple" query="document_key=7ceefeca876502103a5b62cf8bbb3560"/>
+</record_update>
